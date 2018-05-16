@@ -1,0 +1,116 @@
+title: Code for Science & Society
+----
+view: home
+----
+description: We empower communities to work together and build innovative technology for the public good.
+----
+about:
+
+Code for Science & Society (CS&S) is a 501(c)(3) nonprofit. We are building a global network of communities collaborating across industries to develop shared resources and solve common problems. We believe in the power of people working together to eliminate information silos and advance knowledge.
+
+Centralized, private services limit information access, creativity, and free expression. We support communities creating innovative, open, and decentralized applications. We work with these groups to push existing boundaries while supporting inclusive models of community. We build foundational technology that allows data to flow across silos and institutions.
+
+----
+
+programs:
+  technology:
+    title: Foundational Technology
+    description: We build open technology and shared resources to encourage the flow of ideas across domains
+  communities:
+    title: Collaborative Communities
+    description: We develop open learning resources and facilitate collaborations and community-driven projects.
+
+
+----
+projects:
+  dat:
+    link: http://datproject.org
+    image: /assets/dat.png
+    title: Dat Project
+    description: Dat is a data sharing protocol for applications of the future
+  sciencefair:
+    link: http://sciencefair-app.com/
+    image: /assets/sciencefair.png
+    title: ScienceFair
+    description: Search, collect, read and reuse the scientific literature.
+  stencila:
+    link: https://stenci.la/
+    image: /assets/stencila.png
+    title: Stencila
+    description: The office suite for reproducible research.
+----
+
+domains:
+  science:
+    image: /assets/Science.png
+    title: Research & Scholarship
+    description: We work with librarians, researchers, and institutions on improving reproducibility, research data management, and data preservation.
+  government:
+    image: /assets/Government.png
+    title: Government & Society
+    description: We work with civic institutions, activists, and technologists on improving access to public information and facilitating civic engagement.
+  journalism:
+    image: /assets/Journalism.png
+    title: Journalism & New Media
+    description: We work with journalists, public broadcasters, developers, and artists to help people share stories, be creative online, and build next generation tools.
+
+----
+
+sponsors:
+  moore:
+    link: https://www.moore.org/
+    image: /assets/moore-logo-color.jpg
+  sloan:
+    link: https://sloan.org/
+    image: /assets/sloan.png
+  knight:
+    link: https://knightfoundation.org/
+    image: /assets/knight.png
+
+----
+
+team:
+  danielle:
+    name: Danielle Robinson, PhD
+    title: President & Co-Executive Director
+    description: Open science advocate and data enthusiast who believes in the power of open communities, former neuroscience researcher.
+  joe:
+    name: Joe Hand
+    title: Co-Executive Director
+    description: Developer, product manager, researcher, and open data enthusiast. Previously managed an effort at the Santa Fe Institute to transform data collection in informal settlements worldwide.
+  mathias:
+    name: Mathias Buus
+    title: Technical Advisor
+    description: Lead developer on Dat project. Programmer based in Copenhagen, Denmark. Co-creator of node-modules.com and co-founder of ge.tt.
+  keith:
+    name: Keith Chreston
+    title: Secretary-Treasurer
+    description: Over 30 years experience as a senior financial executive and consultant with several businesses and non-profit organizations. He is a CPA (inactive) and former auditor with Ernst & Young.
+  max:
+    name: Max Ogden
+    title: Software Engineer
+    description: Programmer based in Los Angeles. Founder of the Dat Project and co-founder of Code for Science and Society.
+
+----
+
+board:
+  kaitlin:
+    name: Kaitlin Thaney
+    title: Board Chair
+    description: Endowment Director at Wikimedia Foundation and an experienced advocate for open access to content, data, research.
+  kristen:
+    name: Kristen Ratan
+    title: Board Member
+    description: Co-Founder of the Collaborative Knowledge Foundation, on a mission to evolve how knowledge is created, produced, and shared.
+  waldo:
+    name: Waldo Jaquith
+    title: Board Member
+    description: Technical lead in 18F Acquisitions' state and local practice, previously Director of U.S. Open Data, Shuttleworth Foundation Fellow, and member of Project Open Data advisory team.
+  karissa:
+    name: Karissa McKelvey
+    title: Board Member
+    description: Software engineer for Digital Democracy, Dat Project team alumni, open source software developer, writer, project manager, and activist supporting an equitable web.
+  josh:
+    name: Josh Greenberg, PhD
+    title: Board Advisor
+    description: Director of the Alfred P. Sloan Foundation's Digital Information Technology program.

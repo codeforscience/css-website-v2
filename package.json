@@ -1,0 +1,36 @@
+{
+  "name": "css",
+  "version": "0.1.0",
+  "description": "a new website",
+  "main": "index.js",
+  "scripts": {
+    "start": "enoki content -w & watchify source/index.js -o bundles/bundle.js -t sheetify -p [ css-extract -o bundles/bundle.css ] source/index.js",
+    "dev": "enoki content --watch & budo source/index.js --dir -s bundles/bundle.js -P -- -t sheetify -p [ css-extract -o bundles/bundle.css ]",
+    "build": "enoki content && browserify source/index.js -o bundles/bundle.js -t yo-yoify -t  [ sheetify -u sheetify-cssnext ] -g es2040 -p [ css-extract -o bundles/bundle.css ] -p tinyify"
+  },
+  "keywords": [],
+  "author": "Code for Science & Society",
+  "repository": "https://github.com/codeforscience/new-website.git",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "choo": "^6.0.0",
+    "enoki": "^2.1.0",
+    "markdown-it": "^8.4.1",
+    "nanocomponent": "^6.4.0",
+    "nanoreset": "^1.2.0",
+    "object-keys": "^1.0.11",
+    "object-values": "^1.0.0",
+    "tachyons": "^4.9.1",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^15.2.0",
+    "css-extract": "^1.2.0",
+    "es2040": "^1.2.6",
+    "sheetify": "^7.0.0",
+    "sheetify-cssnext": "^1.0.7",
+    "tinyify": "^2.4.0",
+    "yo-yoify": "^3.7.3",
+    "watchify": "^3.10.0"
+  }
+}
