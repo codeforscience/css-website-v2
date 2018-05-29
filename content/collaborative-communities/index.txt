@@ -1,7 +1,12 @@
-title: About - Code for Science & Society
+title: CS&S Services: Collaborative Communities
 ----
 view: default
 ----
 text:
 
-asdf
+Projects are slowed down or stalled by lack of communication and mismatched expectations. New tools are supposed to make collaboration easier but they actually add work. Scientists are used to working one way and resist the structure of online collaboration methods
+
+We have experience launching and sustaining projects in multiple domains. We have run research projects, coordinated data collection between NGOs, and run open source software development projects.
+
+We help people launch and sustain projects. We do this by empowering groups to find consensus on goals, standards, and processes to accelerate complex collaborative projects. We help your team set expectations, goals, and develop a process that will work for them.  Our process is informed by our experiences in open source software development,  community management, academia, and the nonprofit ecosystem.
+

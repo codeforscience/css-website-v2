@@ -6,6 +6,7 @@ module.exports = view
 
 function view (state, emit) {
   var page = state.page
+
   // loading
   if (!state.site.loaded) return renderLoading(state, emit)
   // 404
@@ -20,9 +21,11 @@ function view (state, emit) {
   // template
   return html`
     <body>
-      ${renderNavigation(state, emit)}
-      <main class="relative lh-copy">
-        ${view(state, emit)}
+      <main class="relative flex flex-wrap">
+        ${renderNavigation(state, emit)}
+        <div class="min-vh-100-l w-100 w-75-l lh-copy">
+          ${view(state, emit)}
+        </div>
       </main>
     </body>
   `
@@ -31,8 +34,11 @@ function view (state, emit) {
 function renderLoading (state, emit) {
   return html`
     <body>
-      ${renderNavigation(state, emit)}
-      <div class="loading"></div>
+      <main class="relative flex">
+        ${renderNavigation(state, emit)}
+        <div class="loading">
+        </div>
+      </main>
     </body>
   `
 }
@@ -40,33 +46,38 @@ function renderLoading (state, emit) {
 function renderNotFound (state, emit) {
   return html`
     <body>
-      ${renderNavigation(state, emit)}
-      <div class="notfound">
-        Page not found
-      </div>
+      <main class="relative flex">
+        ${renderNavigation(state, emit)}
+        <section class="dt w-75-l w-100 vh-100 bl b--black-10 black-70">
+          <div class="tc v-mid dtc w-100 h-100 bg-lightest-blue">
+            <h3 class="ttu tracked-tight f-subheadline">Page not found</h3>
+          </div>
+        </section>
+      </main>
     </body>
   `
 }
 
 function renderNavigation (state, emit) {
   return html`
-    <nav class="fixed left-0 vh-100 pv4 ph4 measure-narrow">
-      <div class="tc">
-        <img src="/assets/Blue-logo-black-text-stacked.png" class="" title="${state.page().v('title')}">
-      </div>
-      <h3 class="f5 f4-ns fw4 bt b--gray pv3">
-        ${state.page().v('description')}
-      </h3>
+    <nav class="bb bn-l b--black-10 w-25-l w-100 vh-100-l pa3 pv4-l top-0 sticky-l">
+      <div class="flex flex-column-l justify-between mw-100">
+        <a href="/" class="dim flex-none-l items-center mw-100 mw5">
+          <img src="/assets/Blue-logo-black-text-stacked.png" class=" mw-100-l mw5" title="${state.page().v('title')}">
+        </a>
+        <h3 class="f5 f4-ns fw4 bt b--gray pv3-l pv2 mw5 dn db-l">
+          ${state.page('/').v('subtitle')}
+        </h3>
 
-      <div class="dtc v-mid w-100 tc">
-        <a class="link dim black-70 f5 f4-ns fw6 dib mr3" href="/services" title="About">Services</a>
-        <a class="link dim black-70 f5 f4-ns fw6 dib mr3" href="#" title="Store">Blog</a>
-        <a class="link dim black-70 f5 f4-ns fw6 dib" href="#" title="Contact">Join Us</a>
+        <div class="flex-grow pa3 pa0-l flex-none-l items-center">
+          <a class="link black-70 f5 f4-ns fw6 dim mr3 mr4-ns" href="/collaborative-communities" title="Collaborative Communities">Hire Us!</a>
+          <a class="link black-70 f5 f4-ns fw6 dim" target="_blank" href="https://blog.datproject.org/author/css/" title="CSS Blog">Blog</a>
+        </div>
       </div>
 
-      <footer class="absolute bottom-0 mb4 black-70">
-        <a href="mailto:hi@codeforscience.org" class="link fw6 f4 dim black-70 lh-solid">hi@codeforscience.org</a>
-        <a href="http://twitter.com/codeforsociety" class="dim black-50 mt1 f5 db b ttu lh-solid">@codeforsociety</p>
+      <footer class="absolute bottom-0 mb4 black-70 dn db-l">
+        <a href="mailto:${state.page('/contact').v('email')}" class="link fw6 f4 dim black-70 lh-solid">${state.page('/contact').v('email')}</a>
+        <a href="http://twitter.com/${state.page('/contact').v('twitter')}" target="_blank" class="dim black-50 mt1 f5 db b ttu lh-solid">${state.page('/contact').v('twitter')}</p>
       </footer>
     </nav>
   `

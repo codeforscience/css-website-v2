@@ -13,6 +13,15 @@ a {
   text-decoration: none;
 }
 
+.sticky {
+  position:sticky;
+}
+
+@media screen and (min-width: 60em) {
+  .sticky-l { position:sticky; }
+}
+
+
 /**
  * not found
  */

@@ -1,4 +1,5 @@
 module.exports = {
   default: require('./default'),
-  home: require('./home')
+  home: require('./home'),
+  contact: require('./contact')
 }

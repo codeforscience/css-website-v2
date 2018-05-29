@@ -2,13 +2,25 @@ title: Code for Science & Society
 ----
 view: home
 ----
-description: We empower communities to work together and build innovative technology for the public good.
+subtitle: We empower communities to work together and build innovative technology for the public good.
+----
+tagline: Public Infrastructure for Emergent Communities
+----
+description: We envision a future of technology where value-driven communities have tools that reflect those values. With a focus on connecting people across boundaries and building shared infrastructure, we are working towards that future.
+----
+background: /assets/background.jpg
 ----
 about:
 
 Code for Science & Society (CS&S) is a 501(c)(3) nonprofit. We are building a global network of communities collaborating across industries to develop shared resources and solve common problems. We believe in the power of people working together to eliminate information silos and advance knowledge.
 
 Centralized, private services limit information access, creativity, and free expression. We support communities creating innovative, open, and decentralized applications. We work with these groups to push existing boundaries while supporting inclusive models of community. We build foundational technology that allows data to flow across silos and institutions.
+
+
+----
+
+programs-text:
+  we do things
 
 ----
 
@@ -44,15 +56,15 @@ domains:
   science:
     image: /assets/Science.png
     title: Research & Scholarship
-    description: We work with librarians, researchers, and institutions on improving reproducibility, research data management, and data preservation.
+    description: We improve reproducibility by creating tools for data sharing and preservation.
   government:
     image: /assets/Government.png
     title: Government & Society
-    description: We work with civic institutions, activists, and technologists on improving access to public information and facilitating civic engagement.
+    description: We facilitating civic engagement by improving access to public information.
   journalism:
     image: /assets/Journalism.png
     title: Journalism & New Media
-    description: We work with journalists, public broadcasters, developers, and artists to help people share stories, be creative online, and build next generation tools.
+    description: We empower creative communities by building decentralized technology.
 
 ----
 
@@ -81,7 +93,7 @@ team:
   mathias:
     name: Mathias Buus
     title: Technical Advisor
-    description: Lead developer on Dat project. Programmer based in Copenhagen, Denmark. Co-creator of node-modules.com and co-founder of ge.tt.
+    description: Mathias Buus is a self taught JavaScript hacker from Copenhagen that has been working with Node.js since the 0.2 days. Mathias likes to work with P2P and distributed systems and is the author of more than 650 modules on npm. He is also the Chief of Research at Beaker Browser, leading the technical work on the Dat protocol.
   keith:
     name: Keith Chreston
     title: Secretary-Treasurer
