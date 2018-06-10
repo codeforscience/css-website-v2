@@ -6,31 +6,35 @@ subtitle: We empower communities to work together and build innovative technolog
 ----
 tagline: Public Infrastructure for Emergent Communities
 ----
-description: We envision a future of technology where value-driven communities have tools that reflect those values. With a focus on connecting people across boundaries and building shared infrastructure, we are working towards that future.
+description: We are a 501(c)(3) nonprofit supporting open source projects and open collaboration in public interest technology. We envision a future of technology where value-driven communities have tools that reflect those values. With a focus on connecting people across boundaries and building shared infrastructure, we are working towards that future.
 ----
 background: /assets/background.jpg
 ----
 about:
 
-Code for Science & Society (CS&S) is a 501(c)(3) nonprofit. We are building a global network of communities collaborating across industries to develop shared resources and solve common problems. We believe in the power of people working together to eliminate information silos and advance knowledge.
+Code for Science & Society (CS&S) is building a global network of projects and people who build open source, public interest technology. We bring people together from across open source communities. We create inclusive community spaces for people to share knowledge and support one another. We provide fiscal sponsorship and strategic project development. We support communities creating innovative, open, and decentralized applications for research, civic, and creative use. We work with these groups to push existing boundaries, develop innovative tools, create community resources, and revamp collaborative processes to solve common problems. 
+ 
+We believe in the power of people working together to eliminate information silos and advance knowledge.
 
-Centralized, private services limit information access, creativity, and free expression. We support communities creating innovative, open, and decentralized applications. We work with these groups to push existing boundaries while supporting inclusive models of community. We build foundational technology that allows data to flow across silos and institutions.
+Connect with us [on Twitter](https://twitter.com/codeforsociety), email us at hi@codeforscience.org, or join [our mailing list](http://eepurl.com/dj7pnj).
 
 
 ----
 
 programs-text:
-  we do things
+  At Code for Science & Society, we work across research, government, journalism, and new media to create innovative technology for the public good. Public spaces for data publishing, information sharing, and online collaboration are controlled by centralized systems that restrict the flow of information. Across industries, people are working to reimagine systems that allow ideas and data to flow freely, but these groups work in isolation. We create inclusive spaces that bring innovators together to share information and build together.
+
+To advance our mission, we run three major programs. We develop open learning resources and facilitate collaborations and community-driven projects through our **Collaborative Communities** program. In our **Foundational Technology** program we develop open technology and shared resources with a focus on community owned initiatives and public interest technology. We nurture a network of innovative projects to enable communities learn from each other and develop future-facing solutions that empower people through a **Sponsored Projects** program. 
 
 ----
 
 programs:
   technology:
     title: Foundational Technology
-    description: We build open technology and shared resources to encourage the flow of ideas across domains
+    description: We develop open technology and shared resources with a focus on community owned initiatives and public interest technology.
   communities:
     title: Collaborative Communities
-    description: We develop open learning resources and facilitate collaborations and community-driven projects.
+    description: We develop open learning resources, facilitate collaborations and knowedge sharing, and provide strategic support to community-driven projects.
 
 
 ----
