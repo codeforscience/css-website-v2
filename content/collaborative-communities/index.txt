@@ -4,9 +4,16 @@ view: default
 ----
 text:
 
-Projects are slowed down or stalled by lack of communication and mismatched expectations. New tools are supposed to make collaboration easier but they actually add work. Scientists are used to working one way and resist the structure of online collaboration methods
+Projects are slowed or made complex, despite the best efforts of team leaders, by communication issues and mismatched expectations. Team members find themselves bogged down, as more channels for communication make it harder to find information and get work done. Groups often reach for new software tools — like GitHub, Trello, and Slack — to improve workflows. But these are only tools. Without first creating alignment on goals and collaboration standards, collaboration tools are an additional burden. Effective communication and management processes are needed to take advantage of these tools in collaborative work. However, as each leader and team have unique needs and goals, there’s no single best practice that will work for all. 
 
-We have experience launching and sustaining projects in multiple domains. We have run research projects, coordinated data collection between NGOs, and run open source software development projects.
+We facilitate communities to launch and sustain projects successfully. Code for Science & Society Executive Directors, Danielle and Joe, have introduced researchers around the world to open source approaches to running projects, managed development of a data collection platform used in over 30 countries, and coordinated global open source projects with hundreds of collaborators. By drawing on our experience and industry best practices, we empower groups to reach consensus on goals, standards, and processes to accelerate complex collaborative projects. 
 
-We help people launch and sustain projects. We do this by empowering groups to find consensus on goals, standards, and processes to accelerate complex collaborative projects. We help your team set expectations, goals, and develop a process that will work for them.  Our process is informed by our experiences in open source software development,  community management, academia, and the nonprofit ecosystem.
+Here’s what participants are saying about our recent in-person workshop with Chan Zuckerberg Science Human Cell Atlas group:
+
+“Danielle Robinson + Joe Hand were amazing! I wished that everyone could go to this session to just talk about within-lab communication and project management.” 
+
+“[Thanks] to inspiration from @joeahand and @daniellecrobins (+ other attendees) at the … GitHub session @cziscience Collaborative Computational Tools meeting .. I finally up'd my GitHub game .. guidelines, branches, PRs, squash-and-merges for a course we are teaching ..” - Mark Robinson via Twitter
+
+Read more about the CZI event [on our blog](https://blog.datproject.org/2018/05/22/collaboration-czi/) and reach out to Joe and Danielle at hi@codeforscience.org to learn more.
+
 
