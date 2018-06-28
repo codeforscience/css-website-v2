@@ -11,36 +11,30 @@ function home (state, emit) {
   return html`
     <section class="bl b--black-10 flex flex-column black-70">
       <div class="cover bg-center" style="background-image: url(${state.page().v('background')})">
-        <div class="${sectionClass} bg-black-50 w-100 vh-75 dt">
+        <div class="${sectionClass} bg-black-60 w-100 vh-75 dt">
           <div class="tc dtc v-mid">
             <h1 class="f2 f1-l fw2 mw7 ph5 center white-90 mb0 lh-title">${state.page().v('tagline')}</h1>
-            <h2 class="f5 f4-ns fw4 measure center white-80 mt3 mb4">${state.page().v('description')}</h2>
+            <h2 class="f5 f4-ns fw5 measure-wide center white-80 mt3 mb4">${state.page().v('description')}</h2>
           </div>
         </div>
       </div>
       <div class="${sectionClass} flex flex-wrap bg-light-gray">
         ${ov(state.page().v('domains')).map(domainPillar)}
       </div>
-      <div class="${sectionClass}" id="programs">
-        <h2 class="f2 ttu fw5">CS&S Programs</h2>
-        <div class="f5 f4-ns fw4 measure">
-          ${content(state.page().v('programs-text'))}
+      <div class="${sectionClass} bg-lightest-blue" id="about">
+        <h2 class="f2 ttu fw5">About CS&S</h2>
+        <div class="f5 f4-ns fw4 cf">
+          ${content(state.page().v('about-text'))}
         </div>
         <div class="cf">
           ${ov(state.page().v('programs')).map(programText)}
         </div>
         <article class="pv2 w-100">
           <h2 class="f5 f4-ns fw6 mb3">Sponsored Projects</h2>
-          <div class="flex flex-wrap justify-between pv2">
+          <div class="flex flex-wrap pv2">
             ${ov(state.page().v('projects')).map(projectBox)}
           </div>
         </article>
-      </div>
-      <div class="${sectionClass} bg-lightest-blue" id="about">
-        <h2 class="f2 ttu fw5">About CS&S</h2>
-        <div class="f5 f4-ns fw4 measure">
-          ${content(state.page().v('about'))}
-        </div>
       </div>
       <div class="${sectionClass}" id="sponsors">
         <h2 class="f2 ttu fw5">CS&S Supporters</h2>
@@ -60,10 +54,16 @@ function home (state, emit) {
           ${ov(state.page().v('board')).map(personBox)}
         </div>
       </div>
-      ${contact({
-        divClass: `${sectionClass} bg-lightest-blue`,
-        id: 'cta'
-      })}
+      <div class="${sectionClass} bg-lightest-blue">
+        <h2 class="f2 ttu fw5">Call to Action!</h2>
+        <div class="f5 f4-ns fw4 measure-wide mt0">${content(state.page().v('cta'))}</p>
+        <div class="">
+          ${contact({
+            divClass: '',
+            id: 'cta'
+          })}
+        </div>
+      </div>
     </section>
   `
 }
@@ -92,10 +92,12 @@ function programText (props) {
 
 function projectBox (props) {
   return html`
-    <a href="${props.link}" class="w-33-l mb3 db bg-white ba br2 b--black-10 pv4 ph2 tc">
-      <img src="${props.image}" height="200">
-      <h3 class="f5 f4-ns fw6 black-50">${props.title}</h3>
-      <div class="f5 f4-ns fw4 black-80 measure-narrow">${props.description}</div>
+    <a href="${props.link}" class="flex flex-column tc justify-around pa3 w-40-l w-100 h5 mr2 mb3 db bg-white ba br2 b--black-10">
+      <img src="${props.image}" style="max-height:100px;max-width:75%;" class="center">
+      <div class="tc">
+        <h3 class="f5 f4-ns fw6 black-50 mb0">${props.title}</h3>
+        <div class="f5 f4-ns fw4 black-80 mb1">${props.description}</div>
+      </div>
     </a>
   `
 }

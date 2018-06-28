@@ -1,0 +1,24 @@
+title: CS&S Community Call
+----
+view: default
+----
+text:
+
+**Join us for the CS&S Community Call every quarter!**
+
+Missed the last one? They are all archived! Check out our [recap blog posts](TODO) for more. Don't miss the next one, stay updated:
+
+* Subscribe to the mailing list to get notified
+* Follow @codeforsociety on Twitter
+
+## About
+
+
+
+
+## Speaking on the Call
+
+Interested in sharing your project on the call? Here is what you need to know:
+
+* (...)
+*

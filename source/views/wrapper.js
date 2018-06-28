@@ -60,7 +60,7 @@ function renderNotFound (state, emit) {
 
 function renderNavigation (state, emit) {
   return html`
-    <nav class="bb bn-l b--black-10 w-25-l w-100 vh-100-l pa3 pv4-l top-0 sticky-l">
+    <nav class="bb bn-l b--black-10 w-25-l w-100 vh-100-l pa3 pa4-l pl3-l top-0 sticky-l">
       <div class="flex flex-column-l justify-between mw-100">
         <a href="/" class="dim flex-none-l items-center mw-100 mw5">
           <img src="/assets/Blue-logo-black-text-stacked.png" class=" mw-100-l mw5" title="${state.page().v('title')}">

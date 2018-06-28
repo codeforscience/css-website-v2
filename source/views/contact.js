@@ -6,6 +6,7 @@ module.exports = view
 function view (state, emit) {
   return html`
     <section class="dt w-100 vh-100 bl b--black-10 black-70">
+      <h2 class="f2 ttu fw5">Contact Us</h2>
       ${contact({
         divClass: `tc v-mid dtc w-100 h-100 bg-lightest-blue`,
         id: 'contact'

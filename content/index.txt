@@ -4,37 +4,41 @@ view: home
 ----
 subtitle: We empower communities to work together and build innovative technology for the public good.
 ----
-tagline: Public Infrastructure for Emergent Communities
+tagline: Supporting Collaborative Communities
 ----
-description: We are a 501(c)(3) nonprofit supporting open source projects and open collaboration in public interest technology. We envision a future of technology where value-driven communities have tools that reflect those values. With a focus on connecting people across boundaries and building shared infrastructure, we are working towards that future.
+description: We are a 501(c)(3) nonprofit supporting open source projects and open collaboration in public interest technology. We envision a future of technology where value-driven communities have tools that reflect those values. By connecting people across domains and building shared resources, we are working towards that future.
 ----
 background: /assets/background.jpg
-----
-about:
 
-Code for Science & Society (CS&S) is building a global network of projects and people who build open source, public interest technology. We bring people together from across open source communities. We create inclusive community spaces for people to share knowledge and support one another. We provide fiscal sponsorship and strategic project development. We support communities creating innovative, open, and decentralized applications for research, civic, and creative use. We work with these groups to push existing boundaries, develop innovative tools, create community resources, and revamp collaborative processes to solve common problems. 
- 
-We believe in the power of people working together to eliminate information silos and advance knowledge.
+----
+
+about-text:
+
+<div class="w-50-l fl pr5-l">
+Open source software is a critical component of many public interest technologies. However, running a sustainable open source project is about more than good code. Projects need support beyond software development throughout their lifetimes. Across industries, people are working to reimagine systems that allow ideas and data to flow freely, but these groups work in isolation. There is a clear need for services and supportive community spaces to set conditions for success and develop leaders in open source projects across domains.
 
 Connect with us [on Twitter](https://twitter.com/codeforsociety), email us at hi@codeforscience.org, or join [our mailing list](http://eepurl.com/dj7pnj).
+</div>
 
+<div class="w-50-l fl">
+Our team has experience in leading, mentoring, and fiscally sponsoring projects in the public interest. We offer programs and services designed to elevate the ecosystem, including:
 
-----
-
-programs-text:
-  At Code for Science & Society, we work across research, government, journalism, and new media to create innovative technology for the public good. Public spaces for data publishing, information sharing, and online collaboration are controlled by centralized systems that restrict the flow of information. Across industries, people are working to reimagine systems that allow ideas and data to flow freely, but these groups work in isolation. We create inclusive spaces that bring innovators together to share information and build together.
-
-To advance our mission, we run three major programs. We develop open learning resources and facilitate collaborations and community-driven projects through our **Collaborative Communities** program. In our **Foundational Technology** program we develop open technology and shared resources with a focus on community owned initiatives and public interest technology. We nurture a network of innovative projects to enable communities learn from each other and develop future-facing solutions that empower people through a **Sponsored Projects** program. 
+* Fiscal sponsorship bundled with strategic project support
+* Services for projects that build management, leadership, and fundraising skills
+* Services for funders focused on evaluating sustainability of investments in open source to maximize impact
+* Inclusive spaces for people to connect across domains and share knowledge
+* Support for the development of diverse leaders
+</div>
 
 ----
 
 programs:
   technology:
     title: Foundational Technology
-    description: We develop open technology and shared resources with a focus on community owned initiatives and public interest technology.
+    description: We develop open source software and shared resources with a focus on community owned initiatives and public interest technology. We focus on co-designed projects, especially working with value-driven communities and civic institutions.
   communities:
     title: Collaborative Communities
-    description: We develop open learning resources, facilitate collaborations and knowedge sharing, and provide strategic support to community-driven projects.
+    description: We develop open learning resources, facilitate collaborations and knowedge sharing, and provide strategic support to community-driven projects. Every quarter we host [a community call](/community-call) to bring together everyone and share interesting projects.
 
 
 ----
@@ -69,6 +73,18 @@ domains:
     image: /assets/Journalism.png
     title: Journalism & New Media
     description: We empower creative communities by building decentralized technology.
+
+----
+
+cta:
+
+Most websites end their pages with some call to action or other fancy things to look at. It makes sense! You get to the bottom of the page and think, ok what next? Well, you made it. Chances are you skipped some of the stuff, but that is okay, we don't blame you. It is a long page! So what is next?
+
+Our community is all about collaboration, and collaboration requires relationships and trust.
+
+* **Learn more** Take 30min to an hour to watch one of [our community calls](/community-call). This is the fastest way to *feel* what our community is about.
+* **Reach out** something something
+* **Something fun**
 
 ----
 
