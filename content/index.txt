@@ -6,7 +6,7 @@ subtitle: We empower communities to work together and build innovative technolog
 ----
 tagline: Supporting Collaborative Communities
 ----
-description: We are a 501(c)(3) nonprofit supporting open source projects and open collaboration in public interest technology. We envision a future of technology where value-driven communities have tools that reflect those values. By connecting people across domains and building shared resources, we are working towards that future.
+description: We are a 501(c)(3) nonprofit supporting open source projects and open collaboration in public interest technology. We envision a future of technology where value-driven communities have tools that reflect their values. By connecting people across domains and building shared resources, we are working towards that future.
 ----
 background: /assets/background.jpg
 
@@ -14,13 +14,13 @@ background: /assets/background.jpg
 
 about-text:
 
-<div class="w-50-l fl pr5-l">
+<div class="w-50-l fl pr5-l measure">
 Open source software is a critical component of many public interest technologies. However, running a sustainable open source project is about more than good code. Projects need support beyond software development throughout their lifetimes. Across industries, people are working to reimagine systems that allow ideas and data to flow freely, but these groups work in isolation. There is a clear need for services and supportive community spaces to set conditions for success and develop leaders in open source projects across domains.
 
 Connect with us [on Twitter](https://twitter.com/codeforsociety), email us at hi@codeforscience.org, or join [our mailing list](http://eepurl.com/dj7pnj).
 </div>
 
-<div class="w-50-l fl">
+<div class="w-50-l fl measure">
 Our team has experience in leading, mentoring, and fiscally sponsoring projects in the public interest. We offer programs and services designed to elevate the ecosystem, including:
 
 * Fiscal sponsorship bundled with strategic project support
@@ -64,7 +64,7 @@ domains:
   science:
     image: /assets/Science.png
     title: Research & Scholarship
-    description: We improve reproducibility by creating tools for data sharing and preservation.
+    description: We improve reproducibility by creating tools for data sharing and publishing.
   government:
     image: /assets/Government.png
     title: Government & Society
@@ -78,13 +78,10 @@ domains:
 
 cta:
 
-Most websites end their pages with some call to action or other fancy things to look at. It makes sense! You get to the bottom of the page and think, ok what next? Well, you made it. Chances are you skipped some of the stuff, but that is okay, we don't blame you. It is a long page! So what is next?
-
-Our community is all about collaboration, and collaboration requires relationships and trust.
+Our community is all about collaboration, and collaboration requires relationships and trust. We hope we can start building that relationship with you.
 
 * **Learn more** Take 30min to an hour to watch one of [our community calls](/community-call). This is the fastest way to *feel* what our community is about.
-* **Reach out** something something
-* **Something fun**
+* **Reach out** Want to chat or learn more? Reach out and get the conversation going! Email us at hi@codeforscience.org.
 
 ----
 

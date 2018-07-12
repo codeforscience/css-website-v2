@@ -57,12 +57,6 @@ function home (state, emit) {
       <div class="${sectionClass} bg-lightest-blue">
         <h2 class="f2 ttu fw5">Call to Action!</h2>
         <div class="f5 f4-ns fw4 measure-wide mt0">${content(state.page().v('cta'))}</p>
-        <div class="">
-          ${contact({
-            divClass: '',
-            id: 'cta'
-          })}
-        </div>
       </div>
     </section>
   `
@@ -83,9 +77,9 @@ function domainPillar (props) {
 
 function programText (props) {
   return html`
-    <article class="pv2 fl w-100 w-50-l pr0 pr2-l">
+    <article class="pv2 fl w-100 w-50-l pr0 pr5-l">
       <h2 class="f5 f4-ns fw6 mb3">${props.title}</h2>
-      <p class="f5 f4-ns fw4 measure mt0">${props.description}</p>
+      <p class="f5 f4-ns fw4 measure mt0">${content(props.description)}</p>
     </article>
   `
 }

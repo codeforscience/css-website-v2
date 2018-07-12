@@ -1,9 +1,0 @@
-title: Contact Us
-----
-view: contact
-----
-twitter: @codeforsociety
-----
-email: hi@codeforscience.org
-----
-text: asdf
