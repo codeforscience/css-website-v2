@@ -4,19 +4,19 @@ view: default
 ----
 text:
 
-## Services
+Our team has experience in starting, leading, funding, mentoring, and fiscally
+sponsoring open source projects in the public interest. We offer programs and
+services designed to elevate the ecosystem, including:
 
-* [Community Calls](/community-call)
-* Project facilitation
-* Open source best practices workshops
+* Fiscal sponsorship bundled with strategic project support
+* Services for projects that build management, leadership, and fundraising skills
+* Services for funders focused on evaluating sustainability of investments in
+open source to maximize impact
+* Inclusive spaces for people to connect across domains and share knowledge
+* Support for the development of diverse leaders
 
-### Our Process
-
-Projects are slowed or made complex, despite the best efforts of team leaders, by communication issues and mismatched expectations. Team members find themselves bogged down, as more channels for communication make it harder to find information and get work done. Groups often reach for new software tools — like GitHub, Trello, and Slack — to improve workflows. But these are only tools. Without first creating alignment on goals and collaboration standards, collaboration tools are an additional burden. Effective communication and management processes are needed to take advantage of these tools in collaborative work. However, as each leader and team have unique needs and goals, there’s no single best practice that will work for all.
-
-We facilitate communities to launch and sustain projects successfully. Code for Science & Society Executive Directors, Danielle and Joe, have introduced researchers around the world to open source approaches to running projects, managed development of a data collection platform used in over 30 countries, and coordinated global open source projects with hundreds of collaborators. By drawing on our experience and industry best practices, we empower groups to reach consensus on goals, standards, and processes to accelerate complex collaborative projects.
-
-Here’s what participants are saying about our recent in-person workshop with Chan Zuckerberg Science Human Cell Atlas group:
+Work with us to support the growth and sustainability of open source projects and
+give tomorrow’s leaders the tools they need. Here’s what participants are saying about our recent in-person workshop with Chan Zuckerberg Science Human Cell Atlas group:
 
 > “Danielle Robinson + Joe Hand were amazing! I wished that everyone could go to this session to just talk about within-lab communication and project management.”
 
