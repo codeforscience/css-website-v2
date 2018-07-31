@@ -13,8 +13,8 @@ Missed the last one? They are all archived! Check out our [recap blog posts](htt
 
 **Why host a call?** We wanted to add another channel for regular project updates and a chance to make our online connections a little more IRL. We have a unique community! We can pull speakers from friendly and interesting projects across multiple domains who may not cross paths but face similar challenges. It's a chance to bring the global community together to interact between conferences and meetups.
 
-We support sevearl projects via fiscal sponsorship and are growing an awesome community of technology for the public good projects that span open data, open research, science, peer-to-peer web, and technology for the public good. Central to our mission to bringing people together from different fields to share ideas.
+We support several projects via fiscal sponsorship and are growing an awesome community of projects that span open data, open research, science, peer-to-peer web, and technology for the public good. It's central to our mission to bring people together from different fields to share ideas.
 
 ### Speaking on the Call
 
-Interested in sharing your project on the call? Get in touch!
+Interested in sharing your project on the call? Get in touch! Email us at hi@codeforscience.org.
