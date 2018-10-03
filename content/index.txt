@@ -47,7 +47,7 @@ projects:
     link: http://datproject.org
     image: /assets/dat.png
     title: Dat Project
-    description: Dat is a data sharing protocol for applications of the future
+    description: Dat is a data sharing protocol for applications of the future.
   sciencefair:
     link: http://sciencefair-app.com/
     image: /assets/sciencefair.png
@@ -58,6 +58,11 @@ projects:
     image: /assets/stencila.png
     title: Stencila
     description: The office suite for reproducible research.
+  prereview:
+    link: http://prereview.org
+    image: /assets/PREreview.jpg
+    title: PREreview
+    description: PREreview trains early career researchers in peer review through preprints.
 ----
 
 domains:
