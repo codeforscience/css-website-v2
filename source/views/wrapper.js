@@ -71,7 +71,7 @@ function renderNavigation (state, emit) {
 
         <div class="flex-grow pa3 pa0-l flex-none-l items-center">
           <a class="link black-70 f5 f4-ns fw6 dim mr3 mr4-ns" href="/collaborative-communities" title="Collaborative Communities">Consulting</a>
-          <a class="link black-70 f5 f4-ns fw6 dim" target="_blank" href="https://blog.datproject.org/author/css/" title="CSS Blog">Blog</a>
+          <a class="link black-70 f5 f4-ns fw6 dim" target="_blank" href="https://blog.codeforscience.org/" title="CSS Blog">Blog</a>
         </div>
       </div>
 
