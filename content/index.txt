@@ -103,6 +103,15 @@ sponsors:
   mozilla:
     link: https://www.mozilla.org
     image: /assets/mozilla.png
+  ford:
+    link: https://www.fordfoundation.org/
+    image:  /assets/ford.png
+  wellcome:
+    link: https://wellcome.ac.uk/
+    image: /assets/wellcome.png
+  elife:
+    link: https://elifesciences.org/about/innovation)
+    image: /assets/elife-full-color-horizontal.png
 
 ----
 
