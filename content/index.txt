@@ -100,6 +100,9 @@ sponsors:
   knight:
     link: https://knightfoundation.org/
     image: /assets/knight.png
+  mozilla:
+    link: [https://www.mozilla.org](https://www.mozilla.org/en-US/)
+    image:  /assets/mozilla.png
 
 ----
 
