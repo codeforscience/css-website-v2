@@ -112,6 +112,9 @@ sponsors:
   elife:
     link: https://elifesciences.org/about/innovation)
     image: /assets/elife-full-color-horizontal.png
+  brave:
+    link: https://brave.com/
+    image: /assets/brave.jpeg
 
 ----
 
