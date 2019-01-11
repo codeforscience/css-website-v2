@@ -15,7 +15,7 @@ background: /assets/background.jpg
 programs:
 communities:
 title: Collaborative Communities
-description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/), facilitate collaborations and knowledge sharing, and consult to provide strategic support to community-driven projects. Every quarter we host [a community call](https://www.notion.so/community-call) to bring people, projects, and external speakers together to discuss the ecosystem.
+description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/) and advocate for open infrastructure.  We also consult to facilitate collaborations between organizations and provide strategic support to community-driven initiatives engaging with technology. Every quarter we host [a community call](https://www.notion.so/community-call) to bring people, projects, and external speakers together to discuss the open public interest technology ecosystem.
 
 projects:
 title: Sponsored Projects
@@ -48,7 +48,7 @@ description: PREreview trains early career researchers in peer review through pr
 openrev:
 link: [https://openreview.net/](https://openreview.net/)
 title: OpenReview
-image:
+image: /assets/openreview.png   
 description: Opening peer review.
 
 ----
