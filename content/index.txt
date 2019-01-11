@@ -4,42 +4,21 @@ view: home
 ----
 subtitle: We empower communities to work together and build innovative technology for the public good.
 ----
-tagline: Supporting Collaborative Communities
+tagline: Strategic Support for Open Technology
 ----
-description: We are a 501(c)(3) nonprofit supporting open source projects and open collaboration in public interest technology. We envision a future of technology where value-driven communities have tools that reflect their values. By connecting people across domains and building shared resources, we are working towards that future.
+description: We are a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship, collaborative projects in open infrastructure, and consulting. We envision a future where communities build technology infrastructure that reflect their values.
 ----
 background: /assets/background.jpg
 
 ----
 
-about-text:
-
-<div class="w-50-l fl pr5-l measure">
-Open source software is a critical component of many public interest technologies. However, running a sustainable open source project is about more than good code. Projects need support beyond software development throughout their lifetimes. Across industries, people are working to reimagine systems that allow ideas and data to flow freely, but these groups work in isolation. There is a clear need for services and supportive community spaces to set conditions for success and develop leaders in open source projects across domains.
-
-Connect with us [on Twitter](https://twitter.com/codeforsociety), email us at hi@codeforscience.org, or join [our mailing list](http://eepurl.com/dj7pnj).
-</div>
-
-<div class="w-50-l fl measure">
-Our team has experience in leading, mentoring, and fiscally sponsoring projects in the public interest. We offer programs and services designed to elevate the ecosystem, including:
-
-* Fiscal sponsorship bundled with strategic project support
-* Services for projects that build management, leadership, and fundraising skills
-* Services for funders focused on evaluating sustainability of investments in open source to maximize impact
-* Inclusive spaces for people to connect across domains and share knowledge
-* Support for the development of diverse leaders
-</div>
-
-----
-
 programs:
-  technology:
-    title: Foundational Technology
-    description: We develop open source software and shared resources with a focus on community owned initiatives and public interest technology. We focus on co-designed projects, especially working with value-driven communities and civic institutions.
   communities:
     title: Collaborative Communities
-    description: We develop open learning resources, facilitate collaborations and knowedge sharing, and provide strategic support to community-driven projects. Every quarter we host [a community call](/community-call) to bring together everyone and share interesting projects.
-
+    description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/) and advocate for open infrastructure.  We also consult to facilitate collaborations between organizations and provide strategic support to community-driven initiatives engaging with technology. Every quarter we host [a community call](https://www.notion.so/community-call) to bring people, projects, and external speakers together to discuss the open public interest technology ecosystem.
+  projects:
+    title: Sponsored Projects
+    description: We bring together innovative projects committed to the public good and provide them with financial and administrative and strategic support. We support communities across domains, enabling projects to learn from each other to develop future-facing solutions that empower people. We are looking for projects that want to participate in our community, who value collaboration over competition, and who are aligned with our mission.
 
 ----
 projects:
@@ -63,21 +42,31 @@ projects:
     image: /assets/PREreview.jpg
     title: PREreview
     description: PREreview trains early career researchers in peer review through preprints.
+  openrev:
+    link: https://openreview.net/
+    title: OpenReview
+    image: /assets/openreview.png
+    description: Opening peer review.
+
 ----
 
-domains:
-  science:
-    image: /assets/Science.png
-    title: Research & Scholarship
-    description: We improve reproducibility by creating tools for data sharing and publishing.
-  government:
-    image: /assets/Government.png
-    title: Government & Society
-    description: We facilitating civic engagement by improving access to public information.
-  journalism:
-    image: /assets/Journalism.png
-    title: Journalism & New Media
-    description: We empower creative communities by building decentralized technology.
+about-text:
+
+<div class="w-50-l fl pr5-l measure">
+Open source software is a critical component of many public interest technologies. However, running a sustainable open source project is about more than good code. Projects need support beyond software development throughout their lifetimes. Across industries, people are working to reimagine systems that allow ideas and data to flow freely, but these groups work in isolation. There is a clear need for services and supportive community spaces to set conditions for success and develop leaders in open source projects across domains.
+
+Connect with us [on Twitter](https://twitter.com/codeforsociety), email us at hi@codeforscience.org, or join [our mailing list](http://eepurl.com/dj7pnj).
+</div>
+
+<div class="w-50-l fl measure">
+Our team has experience in leading, mentoring, and fiscally sponsoring projects in the public interest. We offer programs and services designed to elevate the ecosystem, including:
+
+* Fiscal sponsorship bundled with strategic project support
+* Services for projects that build management, leadership, and fundraising skills
+* Services for funders focused on evaluating sustainability of investments in open source to maximize impact
+* Inclusive spaces for people to connect across domains and share knowledge
+* Support for the development of diverse leaders
+</div>
 
 ----
 
