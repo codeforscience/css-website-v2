@@ -24,31 +24,31 @@ programs:
  ----
 
   dat:
-    link: [http://datproject.org](http://datproject.org/) 
+    link: http://datproject.org
     image: /assets/dat.png
     title: Dat Project
     description: Dat is a data sharing protocol for applications of the future.
 
   sciencefair:
-    link: [http://sciencefair-app.com/](http://sciencefair-app.com/)
+    link: http://sciencefair-app.com/
     image: /assets/sciencefair.png
     title: ScienceFair
     description: Search, collect, read and reuse the scientific literature.
 
   stencila:
-    link: [https://stenci.la/](https://stenci.la/)
+    link: https://stenci.la/
     image: /assets/stencila.png
     title: Stencila
     description: The office suite for reproducible research.
 
   prereview:
-    link: [http://prereview.org](http://prereview.org/)
+    link: http://prereview.org
     image: /assets/PREreview.jpg
     title: PREreview
     description: PREreview trains early career researchers in peer review through preprints.
 
   openrev:
-    link: [https://openreview.net/](https://openreview.net/)
+    link: https://openreview.net/
     title: OpenReview
     image: /assets/openreview.png   
     description: Opening peer review.
