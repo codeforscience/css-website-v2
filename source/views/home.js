@@ -18,9 +18,6 @@ function home (state, emit) {
           </div>
         </div>
       </div>
-      <div class="${sectionClass} flex flex-wrap bg-light-gray">
-        ${ov(state.page().v('domains')).map(domainPillar)}
-      </div>
       <div class="${sectionClass} bg-lightest-blue" id="about">
         <h2 class="f2 ttu fw5">About CS&S</h2>
         <div class="f5 f4-ns fw4 cf">
