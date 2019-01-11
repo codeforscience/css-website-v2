@@ -22,7 +22,7 @@ programs:
     description: We bring together innovative projects committed to the public good and provide them with financial and administrative and strategic support. We support communities across domains, enabling projects to learn from each other to develop future-facing solutions that empower people. We are looking for projects that want to participate in our community, who value collaboration over competition, and who are aligned with our mission.
     
  ----
-
+projects:
   dat:
     link: http://datproject.org
     image: /assets/dat.png
