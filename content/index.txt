@@ -4,7 +4,7 @@ view: home
 ----
 subtitle: We empower communities to work together and build innovative technology for the public good.
 ----
-tagline: Strategy & Fiscal Sponsorship
+tagline: Strategic Support for Open Technology
 ----
 description: We are a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship, collaborative projects in open infrastructure, and consulting. We envision a future where communities build technology infrastructure that reflect their values.
 ----
