@@ -16,7 +16,6 @@ programs:
   communities:
     title: Collaborative Communities
     description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/) and advocate for open infrastructure.  We also consult to facilitate collaborations between organizations and provide strategic support to community-driven initiatives engaging with technology. Every quarter we host [a community call](https://www.notion.so/community-call) to bring people, projects, and external speakers together to discuss the open public interest technology ecosystem.
-
   projects:
     title: Sponsored Projects
     description: We bring together innovative projects committed to the public good and provide them with financial and administrative and strategic support. We support communities across domains, enabling projects to learn from each other to develop future-facing solutions that empower people. We are looking for projects that want to participate in our community, who value collaboration over competition, and who are aligned with our mission.
@@ -28,25 +27,21 @@ projects:
     image: /assets/dat.png
     title: Dat Project
     description: Dat is a data sharing protocol for applications of the future.
-
   sciencefair:
     link: http://sciencefair-app.com/
     image: /assets/sciencefair.png
     title: ScienceFair
     description: Search, collect, read and reuse the scientific literature.
-
   stencila:
     link: https://stenci.la/
     image: /assets/stencila.png
     title: Stencila
     description: The office suite for reproducible research.
-
   prereview:
     link: http://prereview.org
     image: /assets/PREreview.jpg
     title: PREreview
     description: PREreview trains early career researchers in peer review through preprints.
-
   openrev:
     link: https://openreview.net/
     title: OpenReview
