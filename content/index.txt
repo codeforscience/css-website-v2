@@ -75,22 +75,6 @@ Our team has experience in leading, mentoring, and fiscally sponsoring projects 
 
 ----
 
-domains:
-  science:
-    image: /assets/Science.png
-    title: Research & Scholarship
-    description: We improve reproducibility by creating tools for data sharing and publishing.
-  government:
-    image: /assets/Government.png
-    title: Government & Society
-    description: We facilitating civic engagement by improving access to public information.
-  journalism:
-    image: /assets/Journalism.png
-    title: Journalism & New Media
-    description: We empower creative communities by building decentralized technology.
-
-----
-
 cta:
 
 Our community is all about collaboration, and collaboration requires relationships and trust. We hope we can start building that relationship with you.
