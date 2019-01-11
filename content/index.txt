@@ -18,9 +18,9 @@ programs:
     description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/) and advocate for open infrastructure.  We also consult to facilitate collaborations between organizations and provide strategic support to community-driven initiatives engaging with technology. Every quarter we host [a community call](https://www.notion.so/community-call) to bring people, projects, and external speakers together to discuss the open public interest technology ecosystem.
   projects:
     title: Sponsored Projects
-    description: We bring together innovative projects committed to the public good and provide them with financial and administrative and strategic support. We support communities across domains, enabling projects to learn from each other to develop future-facing solutions that empower people. We are looking for projects that want to participate in our community, who value collaboration over competition, and who are aligned with our mission.
-    
- ----
+    description: We bring together innovative projects committed to the public good and provide them with financial and administrative and strategic support. We support communities across domains, enabling projects to learn from each other to develop future-facing solutions that empower people. We are looking for projects that want to participate in our community, who value collaboration over competition, and who are aligned with our mission.
+
+----
 projects:
   dat:
     link: http://datproject.org
@@ -45,7 +45,7 @@ projects:
   openrev:
     link: https://openreview.net/
     title: OpenReview
-    image: /assets/openreview.png   
+    image: /assets/openreview.png
     description: Opening peer review.
 
 ----
