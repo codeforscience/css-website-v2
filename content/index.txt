@@ -4,14 +4,54 @@ view: home
 ----
 subtitle: We empower communities to work together and build innovative technology for the public good.
 ----
-tagline: Supporting Collaborative Communities
+tagline: Strategy & Fiscal Sponsorship
 ----
-description: We are a 501(c)(3) nonprofit supporting open source projects and open collaboration in public interest technology. We envision a future of technology where value-driven communities have tools that reflect their values. By connecting people across domains and building shared resources, we are working towards that future.
+description: We are a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship, collaborative projects in open infrastructure, and consulting. We envision a future where communities build technology infrastructure that reflect their values.
 ----
 background: /assets/background.jpg
 
 ----
 
+programs:
+communities:
+title: Collaborative Communities
+description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/), facilitate collaborations and knowledge sharing, and consult to provide strategic support to community-driven projects. Every quarter we host [a community call](https://www.notion.so/community-call) to bring people, projects, and external speakers together to discuss the ecosystem.
+
+projects:
+title: Sponsored Projects
+description: We bring together innovative projects committed to the public good and provide them with financial and administrative and strategic support. We support communities across domains, enabling projects to learn from each other to develop future-facing solutions that empower people. We are looking for projects that want to participate in our community, who value collaboration over competition, and who are aligned with our mission.
+
+dat:
+link: [http://datproject.org](http://datproject.org/)
+image: /assets/dat.png
+title: Dat Project
+description: Dat is a data sharing protocol for applications of the future.
+
+sciencefair:
+link: [http://sciencefair-app.com/](http://sciencefair-app.com/)
+image: /assets/sciencefair.png
+title: ScienceFair
+description: Search, collect, read and reuse the scientific literature.
+
+stencila:
+link: [https://stenci.la/](https://stenci.la/)
+image: /assets/stencila.png
+title: Stencila
+description: The office suite for reproducible research.
+
+prereview:
+link: [http://prereview.org](http://prereview.org/)
+image: /assets/PREreview.jpg
+title: PREreview
+description: PREreview trains early career researchers in peer review through preprints.
+
+openrev:
+link: [https://openreview.net/](https://openreview.net/)
+title: OpenReview
+image:
+description: Opening peer review.
+
+----
 about-text:
 
 <div class="w-50-l fl pr5-l measure">
@@ -30,39 +70,6 @@ Our team has experience in leading, mentoring, and fiscally sponsoring projects 
 * Support for the development of diverse leaders
 </div>
 
-----
-
-programs:
-  technology:
-    title: Foundational Technology
-    description: We develop open source software and shared resources with a focus on community owned initiatives and public interest technology. We focus on co-designed projects, especially working with value-driven communities and civic institutions.
-  communities:
-    title: Collaborative Communities
-    description: We develop open learning resources, facilitate collaborations and knowedge sharing, and provide strategic support to community-driven projects. Every quarter we host [a community call](/community-call) to bring together everyone and share interesting projects.
-
-
-----
-projects:
-  dat:
-    link: http://datproject.org
-    image: /assets/dat.png
-    title: Dat Project
-    description: Dat is a data sharing protocol for applications of the future.
-  sciencefair:
-    link: http://sciencefair-app.com/
-    image: /assets/sciencefair.png
-    title: ScienceFair
-    description: Search, collect, read and reuse the scientific literature.
-  stencila:
-    link: https://stenci.la/
-    image: /assets/stencila.png
-    title: Stencila
-    description: The office suite for reproducible research.
-  prereview:
-    link: http://prereview.org
-    image: /assets/PREreview.jpg
-    title: PREreview
-    description: PREreview trains early career researchers in peer review through preprints.
 ----
 
 domains:
