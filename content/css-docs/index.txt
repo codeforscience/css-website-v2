@@ -1,0 +1,5 @@
+title: CS&S Organizational Documents
+----
+view: docs
+----
+text: Transparecy for the win!
