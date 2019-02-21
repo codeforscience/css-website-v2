@@ -4,6 +4,6 @@ view: contact
 ----
 twitter: @codeforsociety
 ----
-email: hi@codeforscience.org
+email: hi@codeforsociety.org
 ----
 text: asdf

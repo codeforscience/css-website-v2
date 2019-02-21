@@ -55,7 +55,7 @@ about-text:
 <div class="w-50-l fl pr5-l measure">
 Open source software is a critical component of many public interest technologies. However, running a sustainable open source project is about more than good code. Projects need support beyond software development throughout their lifetimes. Across industries, people are working to reimagine systems that allow ideas and data to flow freely, but these groups work in isolation. There is a clear need for services and supportive community spaces to set conditions for success and develop leaders in open source projects across domains.
 
-Connect with us [on Twitter](https://twitter.com/codeforsociety), email us at hi@codeforscience.org, or join [our mailing list](http://eepurl.com/dj7pnj).
+Connect with us [on Twitter](https://twitter.com/codeforsociety), email us at hi@codeforsociety.org, or join [our mailing list](http://eepurl.com/dj7pnj).
 </div>
 
 <div class="w-50-l fl measure">
@@ -75,7 +75,7 @@ cta:
 Our community is all about collaboration, and collaboration requires relationships and trust. We hope we can start building that relationship with you.
 
 * **Learn more** Take 30min to an hour to watch one of [our community calls](/community-call). This is the fastest way to *feel* what our community is about.
-* **Reach out** Want to chat or learn more? Reach out and get the conversation going! Email us at hi@codeforscience.org.
+* **Reach out** Want to chat or learn more? Reach out and get the conversation going! Email us at hi@codeforsociety.org.
 
 ----
 

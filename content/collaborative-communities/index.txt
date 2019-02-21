@@ -22,4 +22,4 @@ give tomorrow’s leaders the tools they need. Here’s what participants are sa
 
 > “[Thanks] to inspiration from @joeahand and @daniellecrobins (+ other attendees) at the … GitHub session @cziscience Collaborative Computational Tools meeting .. I finally up'd my GitHub game .. guidelines, branches, PRs, squash-and-merges for a course we are teaching ..” - Mark Robinson via Twitter
 
-Read more about the CZI event [on our blog](https://blog.datproject.org/2018/05/22/collaboration-czi/) and reach out to Joe and Danielle at hi@codeforscience.org to learn more.
+Read more about the CZI event [on our blog](https://blog.datproject.org/2018/05/22/collaboration-czi/) and reach out to Joe and Danielle at hi@codeforsociety.org to learn more.
