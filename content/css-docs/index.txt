@@ -5,3 +5,5 @@ view: docs
 text:
 
 We will publish documents for Code for Science & Society here, such as: IRS verification, 990 forms, and other documents to improve the transparency of operations. If you are looking for something that is not here, please let us know!
+
+Our EIN is: 81-3791683
