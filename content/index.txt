@@ -23,15 +23,10 @@ programs:
 ----
 projects:
   dat:
-    link: http://datproject.org
-    image: /assets/dat.png
+    link: https://datproject.org
+    image: /assets/dat-logo.png
     title: Dat Project
-    description: Dat is a data sharing protocol for applications of the future.
-  sciencefair:
-    link: http://sciencefair-app.com/
-    image: /assets/sciencefair.png
-    title: ScienceFair
-    description: Search, collect, read and reuse the scientific literature.
+    description: A community-driven, peer-to-peer protocol powering a next generation web.
   stencila:
     link: https://stenci.la/
     image: /assets/stencila.png
@@ -76,34 +71,6 @@ Our community is all about collaboration, and collaboration requires relationshi
 
 * **Learn more** Take 30min to an hour to watch one of [our community calls](/community-call). This is the fastest way to *feel* what our community is about.
 * **Reach out** Want to chat or learn more? Reach out and get the conversation going! Email us at hi@codeforsociety.org.
-
-----
-
-sponsors:
-  moore:
-    link: https://www.moore.org/
-    image: /assets/moore-logo-color.jpg
-  sloan:
-    link: https://sloan.org/
-    image: /assets/sloan.png
-  knight:
-    link: https://knightfoundation.org/
-    image: /assets/knight.png
-  mozilla:
-    link: https://www.mozilla.org
-    image: /assets/mozilla.png
-  ford:
-    link: https://www.fordfoundation.org/
-    image:  /assets/ford.png
-  wellcome:
-    link: https://wellcome.ac.uk/
-    image: /assets/wellcome.png
-  elife:
-    link: https://elifesciences.org/about/innovation)
-    image: /assets/elife-full-color-horizontal.png
-  brave:
-    link: https://brave.com/
-    image: /assets/brave.jpeg
 
 ----
 
