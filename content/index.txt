@@ -47,6 +47,11 @@ projects:
     title: OpenReview
     image: /assets/openreview.png
     description: Opening peer review.
+  mlab:
+    link: https://www.measurementlab.net/
+    image: /assets/mlab.png
+    title: Measurement Lab
+    description: Measure the Internet, save the data, and make it universally accessible and useful.
 
 ----
 
