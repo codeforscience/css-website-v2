@@ -1,0 +1,28 @@
+title: CS&S Supporters
+----
+view: funders
+----
+text:
+
+Code for Science & Society receives support from a collection of funders for our collaborative community program and core operations.
+
+Our sponsored projects also have a wide range of supporters and donors. Please find more informmation about the support of each project on their websites.
+
+----
+
+sponsors:
+  moore:
+    link: https://www.moore.org/
+    image: /assets/moore-logo-color.jpg
+  sloan:
+    link: https://sloan.org/
+    image: /assets/sloan.png
+  mozilla:
+    link: https://www.mozilla.org
+    image: /assets/mozilla.png
+  ford:
+    link: https://www.fordfoundation.org/
+    image:  /assets/ford.png
+  elife:
+    link: https://elifesciences.org/about/innovation)
+    image: /assets/elife-full-color-horizontal.png

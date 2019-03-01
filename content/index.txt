@@ -6,7 +6,7 @@ subtitle: We empower communities to work together and build innovative technolog
 ----
 tagline: Strategic Support for Open Technology
 ----
-description: We are a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship, collaborative projects in open infrastructure, and consulting. We envision a future where communities build technology infrastructure that reflect their values.
+description: We are a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship, our collaborative community program supporting sustainable open source. We envision a future where communities build technology infrastructure that reflect their values.
 ----
 background: /assets/background.jpg
 
@@ -15,7 +15,7 @@ background: /assets/background.jpg
 programs:
   communities:
     title: Collaborative Communities
-    description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/) and advocate for open infrastructure.  We also consult to facilitate collaborations between organizations and provide strategic support to community-driven initiatives engaging with technology. Every quarter we host [a community call](https://www.notion.so/community-call) to bring people, projects, and external speakers together to discuss the open public interest technology ecosystem.
+    description: We develop [open resources to support the public interest technology community](https://osaos.codeforscience.org/) and advocate for open infrastructure.  We also  facilitate collaborations between organizations and provide strategic support to community-driven initiatives engaging with technology. Every quarter we host a community call to bring people, projects, and external speakers together to discuss the open public interest technology ecosystem.
   projects:
     title: Sponsored Projects
     description: We bring together innovative projects committed to the public good and provide them with financial and administrative and strategic support. We support communities across domains, enabling projects to learn from each other to develop future-facing solutions that empower people. We are looking for projects that want to participate in our community, who value collaboration over competition, and who are aligned with our mission.
@@ -23,15 +23,10 @@ programs:
 ----
 projects:
   dat:
-    link: http://datproject.org
-    image: /assets/dat.png
+    link: https://datproject.org
+    image: /assets/dat-logo.png
     title: Dat Project
-    description: Dat is a data sharing protocol for applications of the future.
-  sciencefair:
-    link: http://sciencefair-app.com/
-    image: /assets/sciencefair.png
-    title: ScienceFair
-    description: Search, collect, read and reuse the scientific literature.
+    description: A community-driven, peer-to-peer protocol powering a next generation web.
   stencila:
     link: https://stenci.la/
     image: /assets/stencila.png
@@ -81,34 +76,6 @@ Our community is all about collaboration, and collaboration requires relationshi
 
 * **Learn more** Take 30min to an hour to watch one of [our community calls](/community-call). This is the fastest way to *feel* what our community is about.
 * **Reach out** Want to chat or learn more? Reach out and get the conversation going! Email us at hi@codeforsociety.org.
-
-----
-
-sponsors:
-  moore:
-    link: https://www.moore.org/
-    image: /assets/moore-logo-color.jpg
-  sloan:
-    link: https://sloan.org/
-    image: /assets/sloan.png
-  knight:
-    link: https://knightfoundation.org/
-    image: /assets/knight.png
-  mozilla:
-    link: https://www.mozilla.org
-    image: /assets/mozilla.png
-  ford:
-    link: https://www.fordfoundation.org/
-    image:  /assets/ford.png
-  wellcome:
-    link: https://wellcome.ac.uk/
-    image: /assets/wellcome.png
-  elife:
-    link: https://elifesciences.org/about/innovation)
-    image: /assets/elife-full-color-horizontal.png
-  brave:
-    link: https://brave.com/
-    image: /assets/brave.jpeg
 
 ----
 

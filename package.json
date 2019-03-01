@@ -14,6 +14,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "choo": "^6.13.1",
+    "choo-devtools": "^2.5.1",
     "dat-colors": "^3.5.1",
     "enoki": "^2.1.0",
     "markdown-it": "^8.4.2",
@@ -26,7 +27,7 @@
   },
   "devDependencies": {
     "browserify": "^16.2.3",
-    "budo": "^11.6.0",
+    "budo": "^11.6.1",
     "css-extract": "^1.2.0",
     "es2040": "^1.2.6",
     "sheetify": "^7.3.3",

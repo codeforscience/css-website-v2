@@ -33,12 +33,6 @@ function home (state, emit) {
           </div>
         </article>
       </div>
-      <div class="${sectionClass}" id="sponsors">
-        <h2 class="f2 ttu fw5">CS&S Supporters</h2>
-        <div class="pv3-l pv1 flex flex-wrap">
-          ${ov(state.page().v('sponsors')).map(sponsorImg)}
-        </div>
-      </div>
       <div class="${sectionClass} bg-light-gray" id="people">
         <h2 class="f2 ttu fw5">People of CS&S</h2>
         <div class="pv3-l pv1 flex flex-wrap">
@@ -92,13 +86,6 @@ function projectBox (props) {
     </a>
   `
 }
-
-function sponsorImg (props) {
-  return html`
-    <a class="pr5 mb3 db dib-l" href="${props.link}"><img src="${props.image}"></a>
-  `
-}
-
 
 function personBox (props) {
   return html`
