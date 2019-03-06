@@ -16,7 +16,7 @@
     "choo": "^6.13.1",
     "choo-devtools": "^2.5.1",
     "dat-colors": "^3.5.1",
-    "enoki": "^2.1.0",
+    "enoki": "github:joehand/enoki",
     "markdown-it": "^8.4.2",
     "nanocomponent": "^6.4.0",
     "nanoreset": "^3.0.2",
