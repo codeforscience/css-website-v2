@@ -88,6 +88,93 @@ jobs:
 
       **Apply by March 31st, 2019!**
 
+  or1:
+    title: Full Stack Developer - OpenReview
+    shortDesc:
+      OpenReview is building software for transparent scientific peer review, advanced review-paper matching systems, and knowledge bases for scientific communities. We are seeking an experienced full stack developer to join the dynamic team of software developers working across universities and nonprofits. We aim to revolutionize scientific peer review working with machine learning researchers, open access advocates, and a broad community of open source developers. Are you excited to build user-facing applications and inspired to develop new tools for research? Join us!
+    fullDesc:
+      We are hiring a full stack developer to join the OpenReview team, providing transparent peer review systems for top-tier scientific communities around the world.  The time is ripe for a revolution in peer review.  Come help us design and build a highly configurable, scalable, and open peer review workflow system, enabling scientific communities to flexibly explore "who gets to see what, when" during peer review.  We are also deploying modern machine learning and natural language processing research to provide (a) better review-paper matching systems, (b) models of scientific expertise, (c) knowledge bases of scientific concepts, (d) understanding of the dynamics of scientific sub-communities, and (e) a massive knowledge base of scientists' career paths and their conflicts of interest. We're looking for a developer who is motivated to build tools that improve science, has great communication skills, and can work across disciplinary lines to interface with users, scientists, and other stakeholders. 
+
+
+      OpenReview is run by a UMass-Amherst-based leadership and development team, operating as a fiscally sponsored project of [Code for Science & Society](https://codeforscience.org/), a community building public interest technology. Read more about the project [here](https://openreview.net/about) and [here](https://blog.codeforscience.org/welcome-and-contratuations-openreview/). 
+
+
+      **Essential Functions**
+
+
+      *   _Liaise with community of users, project leadership, and development team_
+
+      *   _Collaborate with the rest of the team to design and launch new features_
+
+      *   _Work alongside machine learning and natural language processing researchers_
+
+      *   _Help the team with continuously improving the code base, the tools and the development processes_
+
+      *   _Maintain quality and ensure responsiveness of applications_
+
+      *   _Support and communicate with OpenReview internal and external users, including internationally prominent researchers, conference program chairs, and journal editors-in-chief_
+
+      *   _Prepare and give demos to users (typically conference Program Chairs), analyze their requests and translate them to possible features_
+      
+      *   _Ability to self-manage and prioritize work across user needs, new feature design, implementation, and system robustness_
+
+
+      **Skills and Experience**
+
+
+      *   _Product and user-focused approach_
+
+      *   _Excellent written and oral communication skills_
+
+      *   _Experience on remote teams is a plus_
+
+      *   _Effective organizational and collaborative working skills_
+
+      *   _Experience in open source software development best practices_
+      
+      *   _Willingness to learn new things_
+
+      *   _At least 5 years of experience as a software developer_
+      
+      *   _Experience with the following:_
+
+          *   _Nodejs_
+
+          *   _Mongodb_
+
+          *   _Elasticsearch_
+
+          *   _Rest API design and implementation_
+
+          *   _HTML, CSS_
+
+          *   _Python_
+
+          *   _Git and source control management_
+
+          *   _Agile methodologies_
+
+          *   _TDD and Testing frameworks_
+
+          *   _Cloud Computing based applications (Google Cloud, AWS)_
+
+
+      **Details of the position**
+
+
+      *   Amherst, northeast-region location, or remote-friendly
+
+      *   20-40% travel anticipated - 4 visits per year to Amherst, possible additional conference or other travel
+
+      *   Full time employment at Code for Science & Society, which offers full benefits (including healthcare and retirement), other employees & full time contractors work in OR, WA, CO, DC, New Zealand, and Italy.
+      
+      *   Work with experienced software developers, machine learning PhD students, and other open source community members.
+      
+      *   The OpenReview Project was started and is lead by Andrew McCallum, natural language processing researcher, past President of the International Machine Learning Society, and Distinguished Professor in the College of Information and Computer Sciences at University of Massachusetts Amherst.
+
+
+      To apply, send a resume along with a cover letter detailing your interest in this role to jobs@openreview.net by March 20th.
+
 ----
 
 footer:
