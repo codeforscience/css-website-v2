@@ -6,6 +6,23 @@ module.exports = view
 
 function view (state, emit) {
   const jobs = state.page().v().jobs
+  const displayJob = state.query && state.query.job
+
+  if (displayJob && jobs[displayJob]) {
+    state.toggleActive = `job-0`
+    return html`
+      <section class="min-vh-100 bl b--black-10 flex flex-column black-70">
+        <div class="">
+          ${jobView(jobs[displayJob], 0)}
+        </div>
+        <div class="ph3 ph5-l pt3 pb5">
+          <hr>
+          ${content(state.page().v('footer'))}
+        </div>
+      </section>
+    `
+  }
+
   return html`
     <section class="min-vh-100 bl b--black-10 flex flex-column black-70">
       <div class="ph3 ph5-l pt2">
