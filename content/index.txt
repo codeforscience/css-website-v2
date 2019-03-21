@@ -6,7 +6,7 @@ subtitle: We empower communities to work together and build innovative technolog
 ----
 tagline: Strategic Support for Open Technology
 ----
-description: We are a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship, our collaborative community program supporting sustainable open source. We envision a future where communities build technology infrastructure that reflect their values.
+description: We are a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source. We envision a future where communities build technology infrastructure that reflect their values.
 ----
 background: /assets/background.jpg
 
