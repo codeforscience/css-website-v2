@@ -104,6 +104,10 @@ board:
     name: Kaitlin Thaney
     title: Board Chair
     description: Endowment Director at Wikimedia Foundation and an experienced advocate for open access to content, data, research.
+  karissa:
+    name: Karissa McKelvey
+    title: Board Member
+    description: Co-founder of CS&S, Technology and Partnerships at Digital Democracy, Project Director at the Dat Project. Open source software developer, writer, project manager, and activist supporting an equitable web.
   kristen:
     name: Kristen Ratan
     title: Board Member
@@ -112,10 +116,6 @@ board:
     name: Waldo Jaquith
     title: Board Member
     description: Technical lead in 18F Acquisitions' state and local practice, previously Director of U.S. Open Data, Shuttleworth Foundation Fellow, and member of Project Open Data advisory team.
-  karissa:
-    name: Karissa McKelvey
-    title: Board Member
-    description: Co-founder of CS&S, Technology and Partnerships at Digital Democracy, Project Director at the Dat Project. Open source software developer, writer, project manager, and activist supporting an equitable web.
   josh:
     name: Josh Greenberg, PhD
     title: Board Advisor
