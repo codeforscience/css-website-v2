@@ -115,7 +115,7 @@ board:
   karissa:
     name: Karissa McKelvey
     title: Board Member
-    description: Software engineer for Digital Democracy, Dat Project team alumni, open source software developer, writer, project manager, and activist supporting an equitable web.
+    description: Co-founder of CS&S, Technology and Partnerships at Digital Democracy, Project Director at the Dat Project. Open source software developer, writer, project manager, and activist supporting an equitable web.
   josh:
     name: Josh Greenberg, PhD
     title: Board Advisor
