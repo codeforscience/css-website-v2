@@ -23,9 +23,9 @@ programs:
 ----
 projects:
   dat:
-    link: https://datproject.org
+    link: https://dat.foundation
     image: /assets/dat-logo.png
-    title: Dat Project
+    title: Dat Foundation
     description: A community-driven, peer-to-peer protocol powering a next generation web.
   stencila:
     link: https://stenci.la/
