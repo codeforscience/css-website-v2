@@ -47,7 +47,12 @@ projects:
     image: /assets/mlab.png
     title: Measurement Lab
     description: Measure the Internet, save the data, and make it universally accessible and useful.
-
+  ioi:
+    link: https://investinopen.org/
+    image: /assets/investinopen-temp-logo.png
+    title: Invest in Open Infrastructure
+    description: A effort to enable open scientific and scholarly infrastructure on a global scale.
+    
 ----
 
 about-text:
