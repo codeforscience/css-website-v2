@@ -34,7 +34,7 @@ projects:
     description: The office suite for reproducible research.
   prereview:
     link: http://prereview.org
-    image: /assets/PREreview.jpg
+    image: /assets/prereview.png
     title: PREreview
     description: PREreview trains early career researchers in peer review through preprints.
   openrev:
@@ -88,15 +88,11 @@ team:
   danielle:
     name: Danielle Robinson, PhD
     title: President & Co-Executive Director
-    description: Danielle Robinson is Co-Executive Director of Code for Science & Society where she works to support and advise people who create open source technology in the public interest. In 2016, she completed a PhD in neuroscience at Oregon Health & Science University. Then as a Mozilla Fellow for Science she ran Working Open Workshops, explored decentralized approaches to data preservation, and advocated for open access to research.
+    description: Danielle Robinson is a proven community leader and strategic advisor to researchers, librarians, and tech communities innovating in research and open source. In 2016, she completed a PhD in Neuroscience at Oregon Health & Science University, during which time was a NSF Graduate Research Fellow and advocated for policies that supported open access on campus. As a 2016 Mozilla Fellow for Science, she ran open source project management workshops around the world, explored decentralized approaches to data preservation. She now focuses on developing infrastructure to expand and protect open access to knowledge as Co-Executive Director of Code for Science & Society.
   joe:
     name: Joe Hand
     title: Co-Executive Director
     description: Joe Hand is Co-Executive Director at Code for Science & Society and a core developer on Dat Project with a focus on developing and managing data-focused programs for researchers and community-driven organizations. Previously, Joe managed a global project at the Santa Fe Institute to transform data collection practices of an international NGO, operating in slums across 30 countries in the Global South
-  mathias:
-    name: Mathias Buus
-    title: Technical Advisor
-    description: Mathias is a self taught JavaScript hacker from Copenhagen that has been working with Node.js since the 0.2 days. Mathias likes to work with P2P and distributed systems and is the author of more than 650 modules on npm. He is also the Chief of Research on the Beaker Browser, leading the technical work on the Dat Protocol.
   keith:
     name: Keith Chreston
     title: Secretary-Treasurer
