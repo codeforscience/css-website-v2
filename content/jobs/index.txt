@@ -121,7 +121,7 @@ jobs:
       *   _Ability to problem solve under pressure and anticipate needs_
       
     
-    Not required, but viewed positively
+      Not required, but viewed positively
     
     
       *   _Familiarity with the landscape of research, open source software projects, events, and conferences in today’s open public interest tech community_
