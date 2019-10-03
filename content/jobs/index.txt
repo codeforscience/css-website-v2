@@ -55,14 +55,6 @@ jobs:
       
       *   _Manage public communications on the Sponsored Projects Program (write blog posts, press releases, and other public comms)._
       
-      *   _Maintain a view of project progress on long-term goals, grant reporting, and grant deliverables, in collaboration with project leaders and advisory committees._
-      
-      *   _Help support CS&S leadership working with new or potential projects during evaluation and onboarding (phone calls to understand needs, management of project pipeline)._
-      
-      *   _Support projects in their grant writing process with your edits, feedback, and grant process management (examples: sharing new opportunities, reminding project leaders of deadlines, reviewing applications for completeness)._
-      
-      *   _Support project leadership to develop their internal processes so that they are aligned with transparent operations and open source/science/technology best practices._
-
 
 
   OpenReview-Developer:
