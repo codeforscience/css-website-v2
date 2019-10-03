@@ -142,7 +142,7 @@ jobs:
             
       *   _An ideal schedule will have this person overlap with CS&S leadership in the US Pacific time zone for at least 4 hours a day. Code for Science & Society and its network of projects is distributed across New Zealand, US, and Europe. The candidate should be able to collaborate with Central European, US Eastern, US Pacific, and New Zealand time zones - we realize this requires occasional early calls and encourage employees to balance that with time off._
     
-      *   _Fully compensated and funded travel to conferences, events, professional development opportunites, and other meetings is possible, depending on the interest and availability of the employee._
+      *   _Fully compensated and funded travel to conferences, events, professional development opportunities, and other meetings is possible, depending on the interest and availability of the employee._
 
 
       **Application Process**
@@ -156,6 +156,7 @@ jobs:
       *   _Any supporting material you feel is appropriate (a list of links to previous projects, writing samples, GitHub repositories, code and/or documentation, copies of publications)_
 
       Send an email, with these documents as one multi-page pdf attachment, to hi@codeforsociety.org
+
 
       Applications will be reviewed by a committee on a rolling basis! We are looking to hire for this role ASAP, so please share this opportunity and don’t hesitate to apply. 
       
