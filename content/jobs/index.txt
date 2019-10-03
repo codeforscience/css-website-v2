@@ -69,11 +69,11 @@ jobs:
       
       *   _Work with project leaders and CS&S team to handle basic IT and digital project needs._
 
-      *   _This work includes the administration and use of digital tools and tech - _
+      *   _This work includes the administration and use of digital tools and tech_
    
           *   _Managing Github and Gitlab workflows, hosting and maintaining simple websites_
         
-          *   _Notion, Github, Trello or other task management softwares_
+          *   _Notion, Github issues and projects, Trello, and/or other task management softwares_
     
           *   _GSuite for document management and collaborative writing_
     
@@ -83,6 +83,81 @@ jobs:
  
       *   _A hands-on attitude towards new technology and systems, coupled with a willingness to learn tools and technologies. Experience with the above tech and tools not required, but is a plus!_
       
+      
+      Support CS&S Leadership and Operations - 10 hours/week
+      
+      
+      *   _Work with executive team to support the growth of the Sponsored Projects Program_
+    
+          *   _Liaise with grant officers during vetting process and after receiving grants._
+
+          *   _Support CS&S in implementing transparent operations through documentation of principles, operations processes, checklists for decision making, and other resources for internal operations._
+      
+          *   _Provide other general administrative support and perform additional job-related duties, as needed._
+      
+          *   _Represent CS&S through conduct at events, in partnerships, appearances in the media, social media, writing, interviews, and other public communications, as necessary._
+          
+
+      **Skills and Abilities**
+
+        
+      Required
+      
+        
+      *   _Outstanding written and oral communication skills_
+    
+      *   _A hands-on attitude towards new technology and systems; willingness to learn tech required to support projects_
+        
+      *   _Extremely detail-oriented, thorough, and organized_
+
+      *   _Ability to communicate effectively with all levels of stakeholders (from community members, to Board of Directors, to funders)_
+    
+      *   _Strong collaboration and interpersonal skills_
+    
+      *   _Ability to work well independently_
+    
+      *   _Excellent time and project management skills_
+    
+      *   _Ability to problem solve under pressure and anticipate needs_
+      
+    
+    Not required, but viewed positively
+    
+    
+      *   _Familiarity with the landscape of research, open source software projects, events, and conferences in today’s open public interest tech community_
+    
+      *   _Involvement in existing open communities (open source/science/data/scholarship/government) and/or a knowledge of open project principles_
+    
+      *    _Experience with remote collaborations and/or remote work_
+
+
+      **Details of the position**
+      
+      
+      *   _This is a US-based remote, full time regular employee position estimated at 40 hrs/week with a salary range 45-60k USD annually, plus benefits (paid vacation, healthcare, retirement)._
+    
+      *   _There is no visa support available for this position._
+    
+      *   _Applicants should be based in the US and legally able to work in the US. We are unable to hire internationally for this position._
+            
+      *   _An ideal schedule will have this person overlap with CS&S leadership in the US Pacific time zone for at least 4 hours a day. Code for Science & Society and its network of projects is distributed across New Zealand, US, and Europe; the candidate should be able to collaborate with Central European, US Eastern, US Pacific, and New Zealand time zones - we realize this requires occasional early calls and encourage employees to balance that with time off._
+    
+      *   _Fully compensated and funded travel to conferences, events, professional development opportunites, and other meetings is possible, depending on the interest and availability of the employee._
+
+
+      **Application Process**
+
+      To apply, please prepare the following
+            
+      *   _A cover letter that frames your past experience and outlines why you’re interested in this job_
+    
+      *   _Your resume_
+    
+      *   _Any supporting material you feel is appropriate (a list of links to previous projects, writing samples, GitHub repositories, code and/or documentation, copies of publications)_
+
+      Send these documents as a single, multi-page pdf attachment to hi@codeforsociety.org
+
+      Applications will be reviewed by a committee on a rolling basis! We are looking to hire for this role ASAP, so please share this opportunity and don’t hesitate to apply. 
 
 
   OpenReview-Developer:
