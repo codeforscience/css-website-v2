@@ -69,9 +69,9 @@ jobs:
       
       *   _Work with project leaders and CS&S team to handle basic IT and digital project needs._
 
-      *   _This work includes the administration and use of digital tools and tech, including - _
+      *   _This work includes the administration and use of digital tools and tech - _
    
-          *   _Github and Gitlab: Managing workflows, hosting and maintaining simple websites_
+          *   _Managing Github and Gitlab workflows, hosting and maintaining simple websites_
         
           *   _Notion, Github, Trello or other task management softwares_
     
