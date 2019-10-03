@@ -1,4 +1,4 @@
-title: Jobs with CS&S Projects
+title: Jobs with CS&S and Sponsored Projects
 ----
 view: jobs
 ----
@@ -6,9 +6,132 @@ text:
 
 **Currently Hiring:**
 
+- [CS&S - Sponsored Project Services Manager](/jobs?job=CSS-Sponsored-Project-Services)
 - [OpenReview - Full-Stack Developer](/jobs?job=OpenReview-Developer)
 
 ----
+
+jobs:
+  CSS-Sponsored-Project-Services:
+  title: Sponsored Project Services Manager
+  shortDesc:
+The CS&S Sponsored Project Program supports multiple open source, public interest technology projects including Measurement Lab, OpenReview, PREreview, and the Dat Project, among others. We take on the financial administration of these projects and support their teams with strategic and practical support. The Sponsored Project Services Manager will be responsible for managing regular communication with and supporting projects in the Sponsored Projects Program. Day-to-day management of this program involves communications with project leadership and the wider CS&S network, supporting projects in the documentation of processes and governance, managing information on grant deadlines and reporting requirements, among other tasks. We are reviewing applications on a rolling basis so don't hesitate to apply!
+ 
+  fullDesc:
+Title: Sponsored Project Services Manager 
+Position Type: Full time with benefits
+Salary range: 45-60k USD annually with benefits
+Location: US-Remote, with supervisors based in Portland OR (US Pacific Time Zone).
+
+**Call for Applicants**
+Are you interested in open science, open source, open scholarship, and public interest technology? Do you love helping things run smoothly? Organizing information? Managing projects? Facilitating team communication? Sorting out logistics? Then we need you! Come help a small multi-organizational, distributed team to support the future of open public interest technology in science, civic tech, new media, and beyond! 
+
+**About CS&S**
+Code for Science & Society (CS&S) is a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source. We envision a future where communities build technology infrastructure that reflect their values. We work for this future by running a Sponsored Project Program where fiscal sponsorship is bundled with strategic support and a Collaborative Communities program that seeks to bring transparency to the public interest tech ecosystem.
+
+**About the Sponsored Project Program**
+The Sponsored Project Program supports multiple open source, public interest technology projects including Measurement Lab, OpenReview, PREreview, and the Dat Project, among others. We take on the financial administration of these projects and support their teams with strategic and practical support. 
+
+The Sponsored Project Services Manager will be responsible for managing regular communication with and supporting projects in the Sponsored Projects Program. Day-to-day management of this program involves communications with project leadership and the wider CS&S network, supporting projects in the documentation of processes and governance, managing information on grant deadlines and reporting requirements, among other tasks. There is an opportunity to develop fundraising skills, technology project management skills, nonprofit program management skills, and more in this role. We believe in supporting our team as whole people on unique professional journeys. This position is scoped for a motivated, early career or career-transitioning individual looking to build their experience. We invite folks with diverse work experience to apply, including folks with backgrounds in academic research, higher education, tech, nonprofit work! There will be opportunities to advance as the Sponsored Project Program grows and to work with CS&S leadership to grow your professional skills in this role to meet your goals. 
+
+The Sponsored Project Services Manager reports to the Code for Science & Society Directors, Joe Hand and Dr. Danielle Robinson.
+
+**Essential Functions**
+Sponsored Project Program Services - 20 hours/week
+    * _Act as the primary point of contact for projects within the organization._
+    
+    * _Hold scheduled monthly calls with project leaders focused on both project strategy and immediate needs, maintain call notes, and work with leadership to connect projects with external experts when needed._
+    
+    * _Manage the action items that come out of those calls and work with leadership to prioritize any emergent project issues._
+    
+    * _Manage public communications on the Sponsored Projects Program (write blog posts, press releases, and other public comms)._
+    
+    * _Maintain a view of project progress on long-term goals, grant reporting, and grant deliverables, in collaboration with project leaders and advisory committees._
+    
+    * _Help support CS&S leadership working with new or potential projects during evaluation and onboarding (phone calls to understand needs, management of project pipeline)._
+    
+    * _Support projects in their grant writing process with your edits, feedback, and grant process management (examples: sharing new opportunities, reminding project leaders of deadlines, reviewing applications for completeness)._
+    
+    * _Support project leadership to develop their internal processes so that they are aligned with transparent operations and open source/science/technology best practices._
+
+Support CS&S and Sponsored Project online services - 10 hours/week
+
+    * _Work with project leaders and CS&S team to handle basic IT and digital project needs._
+    
+    * _This work includes the administration and use of digital tools and tech, including:_
+    
+      * _Github and Gitlab: Managing workflows, hosting and maintaining simple websites_
+      
+      * _Notion, Github, Trello or other task management softwares_
+      
+      * _GSuite for document management and collaborative writing_
+      
+      * _Zoom, Hangouts for virtual meetings_
+      
+      * _Various grant management platforms_
+      
+    * _A hands-on attitude towards new technology and systems, coupled with a willingness to learn tools and technologies. Experience with the above tech and tools not required, but is a plus!_
+
+Support CS&S Leadership and Operations - 10 hours/week
+
+    * _Work with executive team to support the growth of the Sponsored Projects Program:_
+    
+      * _Liaise with grant officers during vetting process and after receiving grants._
+
+      * _Support CS&S in implementing transparent operations through documentation of principles, operations processes, checklists for decision making, and other resources for internal operations._
+      
+      * _Provide other general administrative support and perform additional job-related duties, as needed._
+      
+      * _Represent CS&S through conduct at events, in partnerships, appearances in the media, social media, writing, interviews, and other public communications, as necessary._
+
+**Skills and Abilities**
+Required:
+    * _Outstanding written and oral communication skills_
+    
+     * _A hands-on attitude towards new technology and systems; willingness to learn tech required to support projects
+Extremely detail-oriented, thorough, and organized_
+
+    * _Ability to communicate effectively with all levels of stakeholders (from grantees, to committee members, to funders)_
+    
+    * _Strong collaboration and interpersonal skills_
+    
+    * _Ability to work well independently_
+    
+    * _Excellent time and project management skills_
+    
+    * _Ability to problem solve under pressure and anticipate needs_
+    
+Not required, but viewed positively:
+    * _Familiarity with the landscape of research, open source software projects, events, and conferences in today’s open public interest tech community
+    
+    * _Involvement in existing open communities (open source/science/data/scholarship/government) and/or a knowledge of open project principles_
+    
+    * _Experience with remote collaborations and/or remote work_
+
+**Details of the position**
+
+    * _This is a US-based remote, full time regular employee position estimated at 40 hrs/week with a salary range 50-60k USD annually, plus benefits (paid vacation, healthcare, retirement)._
+    
+    * _There is no visa support available for this position. 
+    
+    * _Applicants should be based in the US and legally able to work in the US. We are unable to hire internationally for this position._
+    * _An ideal schedule will have this person overlap with CS&S leadership in the US Pacific time zone for at least 4 hours a day. Code for Science & Society and its network of projects is distributed across New Zealand, US, and Europe; the candidate should be able to collaborate with Central European, US Eastern, US Pacific, and New Zealand time zones - we realize this requires occasional early calls and encourage employees to balance that with time off._
+    * _Fully compensated and funded travel to conferences, events, professional development opportunites, and other meetings is possible, depending on the interest and availability of the employee._
+
+
+**Application Process**
+
+To apply, please prepare the following:
+    * _A cover letter that frames your past experience and outlines why you’re interested in this job_
+    
+    * _Your resume_
+    
+    * _Any supporting material you feel is appropriate (examples: a list of links to previous projects, writing samples, GitHub repositories, code and/or documentation, copies of publications)_
+
+Send these documents as a single, multi-page pdf attachment to hi@codeforsociety.org
+
+Applications will be reviewed by a committee on a rolling basis! We are looking to hire for this role ASAP, so please share this opportunity and don’t hesitate to apply. 
+
 
 jobs:
   OpenReview-Developer:
