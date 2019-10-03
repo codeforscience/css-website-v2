@@ -21,11 +21,13 @@ jobs:
 
       
       **About CS&S** 
+      
  
       [Code for Science & Society](codeforscience.org) (CS&S) is a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source. We envision a future where communities build technology infrastructure that reflect their values. We work for this future by running a Sponsored Project Program where fiscal sponsorship is bundled with strategic support and a Collaborative Communities program that seeks to bring transparency to the public interest tech ecosystem.
       
      
      **About the Sponsored Project Program**
+
 
       The Sponsored Project Program supports multiple open source, public interest technology projects including Measurement Lab, OpenReview, PREreview, and the Dat Project, among others. We take on the financial administration of these projects and support their teams with strategic and practical support. 
       
@@ -37,6 +39,36 @@ jobs:
       
       
       The Sponsored Project Services Manager reports to the Code for Science & Society Directors, Joe Hand and Dr. Danielle Robinson.
+      
+      
+      **Essential Functions**
+    
+      
+      **Sponsored Project Program Services - 20 hours/week**
+      
+      
+      *   _Act as the primary point of contact for projects within the organization._
+      
+      
+      *   _Hold scheduled monthly calls with project leaders focused on both project strategy and immediate needs, maintain call notes, and work with leadership to connect projects with external experts when needed._
+
+
+      *   _Manage the action items that come out of those calls and work with leadership to prioritize any emergent project issues._
+
+
+    *   _Manage public communications on the Sponsored Projects Program (write blog posts, press releases, and other public comms)._
+
+
+    *   _Maintain a view of project progress on long-term goals, grant reporting, and grant deliverables, in collaboration with project leaders and advisory committees._
+
+
+    *   _Help support CS&S leadership working with new or potential projects during evaluation and onboarding (phone calls to understand needs, management of project pipeline)._
+
+
+    *   _Support projects in their grant writing process with your edits, feedback, and grant process management (examples: sharing new opportunities, reminding project leaders of deadlines, reviewing applications for completeness)._
+
+
+    *   _Support project leadership to develop their internal processes so that they are aligned with transparent operations and open source/science/technology best practices._
 
 
   OpenReview-Developer:
