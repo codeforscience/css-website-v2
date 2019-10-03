@@ -63,6 +63,26 @@ jobs:
       
       *   _Support project leadership to develop their internal processes so that they are aligned with transparent operations and open source/science/technology best practices._
       
+      
+      Support CS&S and Sponsored Project online services - 10 hours/week
+      
+      
+      *   _Work with project leaders and CS&S team to handle basic IT and digital project needs._
+
+      *   _This work includes the administration and use of digital tools and tech, including - _
+   
+          *   _Github and Gitlab: Managing workflows, hosting and maintaining simple websites_
+        
+          *   _Notion, Github, Trello or other task management softwares_
+    
+          *   _GSuite for document management and collaborative writing_
+    
+          *   _Zoom, Hangouts for virtual meetings_
+    
+          *   _Various grant management platforms_
+ 
+      *   _A hands-on attitude towards new technology and systems, coupled with a willingness to learn tools and technologies. Experience with the above tech and tools not required, but is a plus!_
+      
 
 
   OpenReview-Developer:
