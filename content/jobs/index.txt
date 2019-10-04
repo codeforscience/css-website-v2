@@ -23,7 +23,7 @@ jobs:
       **About CS&S** 
       
  
-      [Code for Science & Society](codeforscience.org) (CS&S) is a US-based 501(c)(3) nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source. We envision a future where communities build technology infrastructure that reflect their values. We work for this future by running a Sponsored Project Program where fiscal sponsorship is bundled with strategic support and a Collaborative Communities program that seeks to bring transparency to the public interest tech ecosystem.
+      [Code for Science & Society](codeforscience.org) (CS&S) is a US-based nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source. We envision a future where communities build technology infrastructure that reflect their values. We work for this future by running a Sponsored Project Program where fiscal sponsorship is bundled with strategic support and a Collaborative Communities program that seeks to bring transparency to the public interest tech ecosystem.
       
      
      **About the Sponsored Project Program**
