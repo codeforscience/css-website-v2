@@ -20,19 +20,19 @@
     "markdown-it": "^8.4.2",
     "nanocomponent": "^6.4.0",
     "nanoreset": "^3.0.2",
-    "object-keys": "^1.1.0",
+    "object-keys": "^1.1.1",
     "object-values": "^2.0.0",
     "tachyons": "^4.11.1",
-    "xtend": "^4.0.1"
+    "xtend": "^4.0.2"
   },
   "devDependencies": {
-    "browserify": "^16.2.3",
-    "budo": "^11.6.1",
+    "browserify": "^16.5.0",
+    "budo": "^11.6.3",
     "css-extract": "^1.2.0",
     "es2040": "^1.2.6",
     "sheetify": "^7.3.3",
-    "sheetify-cssnext": "^2.0.0",
-    "tinyify": "^2.5.0",
+    "sheetify-cssnext": "^2.0.1",
+    "tinyify": "^2.5.1",
     "watchify": "^3.11.1",
     "yo-yoify": "^4.3.0"
   }
