@@ -237,13 +237,11 @@ jobs:
       **Details of the position**
 
 
-      *   Amherst, northeast-region location, or remote-friendly
+      *   Amherst MA or local US northeast-region remote
 
-      *   4 visits per year to Amherst, possible additional conference or other travel
+      *   Full time employment at Code for Science & Society, which offers full benefits (including healthcare and retirement)
 
-      *   Full time employment at Code for Science & Society, which offers full benefits (including healthcare and retirement), other employees & full time contractors work in OR, WA, CO, DC, New Zealand, and Italy.
-
-      *   Work with experienced software developers, machine learning PhD students, and other open source community members.
+      *   Work with experienced software developers, machine learning PhD students, and other open source community members
 
       *   The OpenReview Project was started and is lead by Andrew McCallum, natural language processing researcher, past President of the International Machine Learning Society, and Distinguished Professor in the College of Information and Computer Sciences at University of Massachusetts Amherst.
 
