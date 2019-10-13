@@ -7,6 +7,7 @@ text:
 **Currently Hiring:**
 
 - [CS&S - Sponsored Project Services Manager](/jobs?job=CSS-Sponsored-Project-Services)
+- [CS&S - Conference Fund Manager](/jobs?job=CSS-Conference-Fund-Manager)
 - [OpenReview - Full-Stack Developer](/jobs?job=OpenReview-Developer)
 
 ----
@@ -160,6 +161,79 @@ jobs:
 
 
       Applications will be reviewed by a committee on a rolling basis! We are looking to hire for this role ASAP, so please share this opportunity and don’t hesitate to apply.
+
+
+
+  CSS-Conference-Fund-Manager:
+    title: Data Science Community Conference and Events Fund Program Manager
+    shortDesc:
+     Are you a researcher, data scientist, or other member of the open research-driven data science community? Looking for a job that will support the growth of research-driven data science? Do you love helping things run smoothly? Organizing information and measuring impact? Managing projects? Facilitating team communication? Sorting out logistics? Then we need you! Come help Code for Science & Society support the future of data science with a transparent conference and events fund!
+    fullDesc:
+      The Data Science Community Conference and Events Fund is a new initiative in our Sponsored Projects Program, launching with the support of the Gordon and Betty Moore Foundation. The objective of the fund is to administer small event-based grants in a way that is expedient, community-centered, and tracks impact. Key deliverables of this grant include crafting administration guidelines and governance for fund dispersal, an RFP to invite submissions, and a transparent review and tracking process to monitor impact and reach.
+
+      The **Program Manager** will be responsible for managing calls for applications and review processes, day-to-day tasks, and overall program design and management.  We are looking for someone with an entrepreneurial spirit, a demonstrated ability to set and achieve goals independently, and excellent communication skills to provide program management and leadership for this project at CS&S. The Program Manager will work with CS&S leadership and the fund’s governing body to develop and implement a strategic plan for the program and engage in additional fundraising to support the program’s growth.
+
+      Day-to-day management of this program involves communications with stakeholders and the wider research-driven data science community, overseeing overseeing calls for applications, review processes, and grantee reporting processes, among other tasks. There is an opportunity to develop fundraising skills, technology project management skills, nonprofit program management skills, and more in this role. We believe in supporting our team as whole people on unique professional journeys. This position is scoped for a motivated individual with an understanding of today’s research-driven data science landscape who is looking to run a unique program in this ecosystem. We invite folks with diverse work experience to apply, including folks with backgrounds in academic research, open source community management, data science, and nonprofit program management!
+
+      The Program Manager reports to the Code for Science & Society Directors, Joe Hand and Dr. Danielle Robinson.
+
+
+      **Essential Functions**
+
+      *   _Overall management and oversight of deliverables, time-tables, reporting, and budget allocation for grantees._
+
+      *   _Advocacy and outreach in the research-driven data science community (across disciplines) to promote the program._
+
+      *   _Development and management of effective processes, including call for applications, review, award, reporting, and improvement to existing processes._
+
+      *   _Support the work of the Program's Advisory Committee and Selection Committee._
+
+      *   _Represent CS&S through conduct at events, appearances in media, social media, writing, interviews, and other public communications._
+
+
+      **Skills and Abilities**
+
+      *   _Familiarity with the landscape of research, open source software projects, events, and conferences in today’s data science community. Active involvement in one or more existing/emerging data science communities and a knowledge of open project principles is a plus._
+
+      *   _Outstanding written and oral communication skills._
+
+      *   _A hands-on attitude towards new technology and systems. _
+
+      *   _Extremely detail­ oriented, thorough, and organized._
+
+      *   _Ability to communicate effectively with all levels of stakeholders (from grantees, to committee members, to funders); strong collaboration and interpersonal skills; ability to work well independently._
+
+      *   _Excellent time and project management skills._
+
+      *   _Ability to problem solve under pressure and anticipate needs._
+
+      *   _Experience with distributed community organizing and remote work is a plus_.
+
+
+      **Details of the position**
+
+      *   _This is a US-based remote, full time regular employee position estimated at 40 hrs/week with a salary range 60-70k USD annually, plus benefits (paid vacation, healthcare, retirement)._
+
+      *   _There is no visa support available for this position._
+
+      *   _Applicants should be based in the US and legally able to work in the US._
+
+      *   _US and international travel to conferences, events, and team meetings is anticipated to be up to 25%._
+
+
+      **Application Process** To apply, please prepare the following
+
+      *   _A cover letter that frames your past experience and outlines why you’re interested in this job_
+
+      *   _Your resume_
+
+      *   _Any supporting material you feel is appropriate (a list of links to previous projects, writing samples, GitHub repositories, code and/or documentation, copies of publications)_
+
+
+      Please fill out[ this form](https://airtable.com/shrdNHxJylrKCS7z3), with any documents attached as one multi-page pdf attachment. Email us at hi@codeforsociety.org with any questions.
+
+
+      Applications will be reviewed beginning Nov 15th.
 
 
 
