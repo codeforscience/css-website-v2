@@ -7,6 +7,7 @@ text:
 **Currently Hiring:**
 
 - [CS&S - Sponsored Project Services Manager](/jobs?job=CSS-Sponsored-Project-Services)
+- [CS&S - Conference Fund Manager](/jobs?job=CSS-Conference-Fund-Manager)
 - [OpenReview - Full-Stack Developer](/jobs?job=OpenReview-Developer)
 
 ----
