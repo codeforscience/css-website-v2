@@ -171,9 +171,12 @@ jobs:
     fullDesc:
       The Data Science Community Conference and Events Fund is a new initiative in our Sponsored Projects Program, launching with the support of the Gordon and Betty Moore Foundation. The objective of the fund is to administer small event-based grants in a way that is expedient, community-centered, and tracks impact. Key deliverables of this grant include crafting administration guidelines and governance for fund dispersal, an RFP to invite submissions, and a transparent review and tracking process to monitor impact and reach.
 
+
       The **Program Manager** will be responsible for managing calls for applications and review processes, day-to-day tasks, and overall program design and management.  We are looking for someone with an entrepreneurial spirit, a demonstrated ability to set and achieve goals independently, and excellent communication skills to provide program management and leadership for this project at CS&S. The Program Manager will work with CS&S leadership and the fund’s governing body to develop and implement a strategic plan for the program and engage in additional fundraising to support the program’s growth.
 
+
       Day-to-day management of this program involves communications with stakeholders and the wider research-driven data science community, overseeing overseeing calls for applications, review processes, and grantee reporting processes, among other tasks. There is an opportunity to develop fundraising skills, technology project management skills, nonprofit program management skills, and more in this role. We believe in supporting our team as whole people on unique professional journeys. This position is scoped for a motivated individual with an understanding of today’s research-driven data science landscape who is looking to run a unique program in this ecosystem. We invite folks with diverse work experience to apply, including folks with backgrounds in academic research, open source community management, data science, and nonprofit program management!
+
 
       The Program Manager reports to the Code for Science & Society Directors, Joe Hand and Dr. Danielle Robinson.
 
