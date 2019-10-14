@@ -236,7 +236,7 @@ jobs:
       Please fill out[ this form](https://airtable.com/shrdNHxJylrKCS7z3), with any documents attached as one multi-page pdf attachment. Email us at hi@codeforsociety.org with any questions.
 
 
-      Applications will be reviewed beginning Nov 15th.
+      Applications will be reviewed beginning Nov 6th.
 
 
 
