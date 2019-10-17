@@ -165,7 +165,7 @@ jobs:
 
 
   CSS-Conference-Fund-Manager:
-    title: Data Science Community Events Fund Program Manager
+    title: Program Manager - Data Science Conference Fund 
     shortDesc:
      Are you a researcher, data scientist, or other member of the open research-driven data science community? Looking for a job that will support the growth of research-driven data science? Do you love helping things run smoothly? Organizing information and measuring impact? Managing projects? Facilitating team communication? Sorting out logistics? Then we need you! Come help Code for Science & Society support the future of data science with a transparent conference and events fund!
     fullDesc:
