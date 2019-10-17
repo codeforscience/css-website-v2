@@ -165,11 +165,11 @@ jobs:
 
 
   CSS-Conference-Fund-Manager:
-    title: Program Manager - Data Science Conference Fund 
+    title: Program Manager - Data Science Community Conference and Fund 
     shortDesc:
      Are you a researcher, data scientist, or other member of the open research-driven data science community? Looking for a job that will support the growth of research-driven data science? Do you love helping things run smoothly? Organizing information and measuring impact? Managing projects? Facilitating team communication? Sorting out logistics? Then we need you! Come help Code for Science & Society support the future of data science with a transparent conference and events fund!
     fullDesc:
-      The Data Science Community Conference and Events Fund is a new initiative in our Sponsored Projects Program, launching with the support of the Gordon and Betty Moore Foundation. The objective of the fund is to administer small event-based grants in a way that is expedient, community-centered, and tracks impact. Key deliverables of this grant include crafting administration guidelines and governance for fund dispersal, an RFP to invite submissions, and a transparent review and tracking process to monitor impact and reach.
+      The **Data Science Community Conference and Events Fund** is a new initiative in our Sponsored Projects Program, launching with the support of the Gordon and Betty Moore Foundation. The objective of the fund is to administer small event-based grants in a way that is expedient, community-centered, and tracks impact. Key deliverables of this grant include crafting administration guidelines and governance for fund dispersal, an RFP to invite submissions, and a transparent review and tracking process to monitor impact and reach.
 
 
       The **Program Manager** will be responsible for managing calls for applications and review processes, day-to-day tasks, and overall program design and management.  We are looking for someone with an entrepreneurial spirit, a demonstrated ability to set and achieve goals independently, and excellent communication skills to provide program management and leadership for this project at CS&S. The Program Manager will work with CS&S leadership and the fund’s governing body to develop and implement a strategic plan for the program and engage in additional fundraising to support the program’s growth.
