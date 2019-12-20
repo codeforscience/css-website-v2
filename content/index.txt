@@ -52,7 +52,12 @@ projects:
     image: /assets/ioi-temp-logo.png
     title: Invest in Open Infrastructure
     description: A effort to enable open scientific and scholarly infrastructure on a global scale.
-    
+  openrefine:
+    link: https://openrefine.org/
+    image: /assets/open-refine-320px.png
+    title: OpenRefine
+    description: A free, open source, powerful tool for working with messy data
+
 ----
 
 about-text:
