@@ -98,10 +98,14 @@ team:
     name: Joe Hand
     title: Co-Executive Director
     description: Joe Hand is Co-Executive Director at Code for Science & Society and a core developer on Dat Project with a focus on developing and managing data-focused programs for researchers and community-driven organizations. Previously, Joe managed a global project at the Santa Fe Institute to transform data collection practices of an international NGO, operating in slums across 30 countries in the Global South.
-  keith:
-    name: Keith Chreston
-    title: Secretary-Treasurer
-    description: Over 30 years experience as a senior financial executive and consultant with several businesses and non-profit organizations. He is a CPA (inactive) and former auditor with Ernst & Young.
+  jess:
+    name: Jessica Hardwicke
+    title: Sponsored Projects Services Manager
+    description: Jessica is the new Sponsored Project Services Manager at CS&S, providing support and structure to the growth of our fiscally sponsored projects. She brings her background in project management, open source bioinformatics, and community outreach & organization to CS&S’ community of open source public interest technology projects. Her favorite adventure as a researcher was [studying hydrothermal vent microbes](https://laugeomicro2015.blogspot.com/2015/04/) and (momentarily) piloting the Jason II ROV. She is driven to understand how things work and how they can work better, and has lead on a diverse array of projects & teams ranging from an open-source automated turbidostat to running workshops on composting in her local community.
+  emily:
+    name: Emily Lescak, PhD
+    title: Data Science Community Conference & Events Fund Program Manager
+    description: Dr. Emily Lescak is the Data Science Community Conference and Events Fund Program Manager  at Code for Science and Society. She completed a Ph.D. in fisheries through the University of Alaska Fairbanks in 2015. She has nearly 10 years of experience working in research data science focused on population genetics, evolution, and management of Alaskan fish populations. Emily was a 2017 [National Science Foundation Broadening Participation of Groups Underrepresented in Biology](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622) postdoctoral fellow, has a strong background in mentoring, and leadership in science advocacy initiatives. She brings her experience working in academic and government research data science to Code for Science and Society, where she will be establishing a grants program to support conferences and events that promote inclusive practices and broaden participation in open research-driven data science communities. You can find Emily on [LinkedIn](https://www.linkedin.com/in/emily-lescak-b4652446/) and follow her on Twitter @elescak.
 
 ----
 
