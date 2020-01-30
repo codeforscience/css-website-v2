@@ -107,11 +107,6 @@ team:
     title: Data Science Community Conference & Events Fund Program Manager
     description: Dr. Emily Lescak is the Data Science Community Conference and Events Fund Program Manager  at Code for Science and Society. She completed a Ph.D. in fisheries through the University of Alaska Fairbanks in 2015. She has nearly 10 years of experience working in research data science focused on population genetics, evolution, and management of Alaskan fish populations. Emily was a 2017 [National Science Foundation Broadening Participation of Groups Underrepresented in Biology](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622) postdoctoral fellow, has a strong background in mentoring, and leadership in science advocacy initiatives. She brings her experience working in academic and government research data science to Code for Science and Society, where she will be establishing a grants program to support conferences and events that promote inclusive practices and broaden participation in open research-driven data science communities. You can find Emily on [LinkedIn](https://www.linkedin.com/in/emily-lescak-b4652446/) and follow her on Twitter @elescak.
 
-  keith:
-    name: Keith Chreston
-    title: Secretary-Treasurer
-    description: Over 30 years experience as a senior financial executive and consultant with several businesses and non-profit organizations. He is a CPA (inactive) and former auditor with Ernst & Young.
-
 ----
 
 board:

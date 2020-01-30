@@ -91,9 +91,9 @@ function personBox (props) {
   return html`
     <article class="bg-white br2 pa3 pb4-ns mv2 ba b--black-10 mr3-l mr2">
       <h4 class="f5 f4-ns fw6 mb0 mt1">${props.name}</h4>
-      <h5 class="f5 b ttu black-50 mv0">${props.title}</h5>
+      <h5 class="f5 b ttu black-50 mv0 measure-narrow">${props.title}</h5>
       <p class="lh-copy measure-narrow f5 f4-ns fw4">
-        ${props.description}
+        ${content(props.description)}
       </p>
     </article>
   `
