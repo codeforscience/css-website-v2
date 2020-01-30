@@ -13,12 +13,12 @@
   "repository": "https://github.com/codeforscience/new-website.git",
   "license": "Apache-2.0",
   "dependencies": {
-    "choo": "^7.0.0",
-    "choo-devtools": "^3.0.2",
+    "choo": "^7.1.0",
+    "choo-devtools": "^3.0.3",
     "dat-colors": "^3.5.1",
     "enoki": "github:joehand/enoki",
     "markdown-it": "^10.0.0",
-    "nanocomponent": "^6.4.0",
+    "nanocomponent": "^6.5.3",
     "nanoreset": "^4.0.0",
     "object-keys": "^1.1.1",
     "object-values": "^2.0.0",
@@ -32,7 +32,7 @@
     "es2040": "^1.2.6",
     "sheetify": "^8.0.0",
     "sheetify-cssnext": "^2.0.1",
-    "tinyify": "^2.5.1",
+    "tinyify": "^2.5.2",
     "watchify": "^3.11.1",
     "yo-yoify": "^4.3.0"
   }
