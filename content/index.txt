@@ -117,7 +117,7 @@ board:
   karissa:
     name: Karissa McKelvey
     title: Board Member
-    description: Co-founder of CS&S, Technology and Partnerships at Digital Democracy, Project Director at the Dat Project. Open source software developer, writer, project manager, and activist supporting an equitable web.
+    description: Co-founder of CS&S, Technology and Partnerships at Digital Democracy, expert in cooperative practices in open source commmunity management and strategic growth.
   kristen:
     name: Kristen Ratan
     title: Board Member
