@@ -117,7 +117,7 @@ board:
   karissa:
     name: Karissa McKelvey
     title: Board Member
-    description: Co-founder of CS&S, Technology and Partnerships at Digital Democracy, experienced in cooperative practices in open source commmunity management and strategic growth.
+    description: Co-founder of CS&S, Technology and Partnerships at Digital Democracy, experienced in cooperative open source commmunity management, engineering management, and strategic growth.
   kristen:
     name: Kristen Ratan
     title: Board Member
