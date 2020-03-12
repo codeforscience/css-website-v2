@@ -6,11 +6,19 @@ text:
 
 **Currently Hiring:**
 
+- [PREreview - Contract Developer](https://blog.codeforscience.org/prereview-developer/)
 - [OpenReview - Full-Stack Developer](/jobs?job=OpenReview-Developer)
 
 ----
 
 jobs:
+  PREreview-Developer:
+    title: Contract Developer - PREreview
+    shortDesc:
+      Are you interested in working with a small and enthusiastic team who are passionate about adding transparency and diversity to the scholarly peer review process through innovation, community building, and mentorship? PREreview is seeking a developer with front and back-end experience to work with the team in developing the next version of the open-source PREreview platform.  
+    fullDesc:
+      Please see [this blog post](https://blog.codeforscience.org/prereview-developer/) for a complete description. 
+    
   OpenReview-Developer:
     title: Full Stack Developer - OpenReview
     shortDesc:
