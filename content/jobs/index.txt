@@ -15,7 +15,7 @@ jobs:
   PREreview-Developer:
     title: Contract Developer - PREReview
     shortDesc:
-    Are you interested in working with a small and enthusiastic team who are passionate about adding transparency and diversity to the scholarly peer review process through innovation, community building, and mentorship? PREreview is seeking a developer with front and back-end experience to work with the team in developing the next version of the open-source PREreview platform.  
+      Are you interested in working with a small and enthusiastic team who are passionate about adding transparency and diversity to the scholarly peer review process through innovation, community building, and mentorship? PREreview is seeking a developer with front and back-end experience to work with the team in developing the next version of the open-source PREreview platform.  
     
   OpenReview-Developer:
     title: Full Stack Developer - OpenReview
